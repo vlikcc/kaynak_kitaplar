@@ -1,0 +1,28 @@
+{
+ "kitap_id": 9,
+ "baslik": "Okul Öncesi Eğitim 3 Yaş Çekirdek 1 Ders Kitabı",
+ "sayfa": "0-71",
+ "pdf_sayfa": 72,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 58.7,
+  "gemma": 333.9,
+  "merge": 0.4,
+  "total": 393.1
+ },
+ "sayfa_basi_sn": 5.5,
+ "birlestirme": {
+  "formul": 4,
+  "DOGRULANAMADI": 4,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 7
+ },
+ "gemma_formul": {
+  "total": 4,
+  "katex_ok": 4,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 4
+}
