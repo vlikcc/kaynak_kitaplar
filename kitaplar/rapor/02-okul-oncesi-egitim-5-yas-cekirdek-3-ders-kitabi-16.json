@@ -1,0 +1,28 @@
+{
+ "kitap_id": 16,
+ "baslik": "Okul Öncesi Eğitim 5 Yaş Çekirdek 3 Ders Kitabı",
+ "sayfa": "0-79",
+ "pdf_sayfa": 80,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 166.1,
+  "gemma": 392.5,
+  "merge": 0.6,
+  "total": 559.2
+ },
+ "sayfa_basi_sn": 7.0,
+ "birlestirme": {
+  "formul": 12,
+  "DOGRULANAMADI": 12,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 10
+ },
+ "gemma_formul": {
+  "total": 12,
+  "katex_ok": 12,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 12
+}
