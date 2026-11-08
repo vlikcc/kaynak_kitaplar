@@ -1,6 +1,6 @@
 # TYMM kitapları — Markdown'a dönüştürme listesi
 
-Kaynak: https://tymm.meb.gov.tr/Kitap/GetDersKitaplariList (324 kitap). Biten: **4/324**.
+Kaynak: https://tymm.meb.gov.tr/Kitap/GetDersKitaplariList (324 kitap). Biten: **5/324**.
 
 Her satır: `[ ]` durum · kitap_id · kitap adı · PDF · hedef dosya adı. Bir kitap birden fazla sınıfa ait olduğunda ilk sınıfının altında listelenir; diğer sınıflar parantez içinde yazılır.
 
@@ -22,7 +22,7 @@ Her satır: `[ ]` durum · kitap_id · kitap adı · PDF · hedef dosya adı. Bi
 - [x] `553` Okul Öncesi Evde Oyun Rehberi Yardımcı Kitabı (ayrıca: 48-60 Ay, 60-72 Ay) · [PDF](https://tymm.meb.gov.tr/assets/pdf/okul-oncesi-evde-oyun-rehberi-yardimci-kitabi_20261027_120458_466.pdf) · `02-okul-oncesi-evde-oyun-rehberi-yardimci-kitabi-553.md`
 - [x] `9` Okul Öncesi Eğitim 3 Yaş Çekirdek 1 Ders Kitabı · [PDF](https://tymm.meb.gov.tr/assets/pdf/okul-oncesi-3-yas-cekirdek-1-ders-kitabi_20260915_204438_787.pdf) · `02-okul-oncesi-egitim-3-yas-cekirdek-1-ders-kitabi-9.md`
 - [x] `10` Okul Öncesi Eğitim 3 Yaş Çekirdek 2 Ders Kitabı · [PDF](https://tymm.meb.gov.tr/assets/pdf/okul-oncesi-3-yas-cekirdek-2-ders-kitabi_20260915_204546_149.pdf) · `02-okul-oncesi-egitim-3-yas-cekirdek-2-ders-kitabi-10.md`
-- [ ] `552` Okul Öncesi Fen Alanı Öğretmen Kılavuz Kitabı (ayrıca: 48-60 Ay, 60-72 Ay) · [PDF](https://tymm.meb.gov.tr/assets/pdf/okul-oncesi-fen-alani-ogretmen-kilavuz-kitabi_20261027_120617_264.pdf) · `02-okul-oncesi-fen-alani-ogretmen-kilavuz-kitabi-552.md`
+- [x] `552` Okul Öncesi Fen Alanı Öğretmen Kılavuz Kitabı (ayrıca: 48-60 Ay, 60-72 Ay) · [PDF](https://tymm.meb.gov.tr/assets/pdf/okul-oncesi-fen-alani-ogretmen-kilavuz-kitabi_20261027_120617_264.pdf) · `02-okul-oncesi-fen-alani-ogretmen-kilavuz-kitabi-552.md`
 - [ ] `551` Okul Öncesi Hareket Ve Sağlık Alanı Öğretmen Kılavuz Kitabı (ayrıca: 48-60 Ay, 60-72 Ay) · [PDF](https://tymm.meb.gov.tr/assets/pdf/okul-oncesi-hareket-ve-saglik-alani-ogretmen-kilavuz-kitabi_20261027_120710_281.pdf) · `02-okul-oncesi-hareket-ve-saglik-alani-ogretmen-kilavuz-kitabi-551.md`
 - [ ] `550` Okul Öncesi Matematik Alanı Öğretmen Kılavuz Kitabı (ayrıca: 48-60 Ay, 60-72 Ay) · [PDF](https://tymm.meb.gov.tr/assets/pdf/okul-oncesi-matematik-alani-ogretmen-kilavuz-kitabi_20261027_120801_805.pdf) · `02-okul-oncesi-matematik-alani-ogretmen-kilavuz-kitabi-550.md`
 - [ ] `549` Okul Öncesi Müzik Alanı Öğretmen Kılavuz Kitabı (ayrıca: 48-60 Ay, 60-72 Ay) · [PDF](https://tymm.meb.gov.tr/assets/pdf/okul-oncesi-muzik-alani-ogretmen-kilavuz-kitabi_20261027_115434_721.pdf) · `02-okul-oncesi-muzik-alani-ogretmen-kilavuz-kitabi-549.md`

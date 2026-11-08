@@ -1,0 +1,27 @@
+{
+ "kitap_id": 552,
+ "baslik": "Okul Öncesi Fen Alanı Öğretmen Kılavuz Kitabı",
+ "sayfa": "0-240",
+ "pdf_sayfa": 241,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 351.9,
+  "gemma": 2391.3,
+  "merge": 1.9,
+  "total": 2745.2
+ },
+ "sayfa_basi_sn": 11.4,
+ "birlestirme": {
+  "formul": 0,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 11
+ },
+ "gemma_formul": {
+  "total": 0,
+  "katex_ok": 0,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 0
+}
