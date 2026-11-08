@@ -1,6 +1,6 @@
 # TYMM kitapları — Markdown'a dönüştürme listesi
 
-Kaynak: https://tymm.meb.gov.tr/Kitap/GetDersKitaplariList (324 kitap). Biten: **14/324**.
+Kaynak: https://tymm.meb.gov.tr/Kitap/GetDersKitaplariList (324 kitap). Biten: **15/324**.
 
 Her satır: `[ ]` durum · kitap_id · kitap adı · PDF · hedef dosya adı. Bir kitap birden fazla sınıfa ait olduğunda ilk sınıfının altında listelenir; diğer sınıflar parantez içinde yazılır.
 
@@ -35,7 +35,7 @@ Her satır: `[ ]` durum · kitap_id · kitap adı · PDF · hedef dosya adı. Bi
 
 ### 48-60 Ay (3)
 
-- [ ] `11` Okul Öncesi Eğitim 4 Yaş Çekirdek 1 Ders Kitabı · [PDF](https://tymm.meb.gov.tr/assets/pdf/okul-oncesi-4-yas-cekirdek-1-ders-kitabi_20260915_205011_981.pdf) · `02-okul-oncesi-egitim-4-yas-cekirdek-1-ders-kitabi-11.md`
+- [x] `11` Okul Öncesi Eğitim 4 Yaş Çekirdek 1 Ders Kitabı · [PDF](https://tymm.meb.gov.tr/assets/pdf/okul-oncesi-4-yas-cekirdek-1-ders-kitabi_20260915_205011_981.pdf) · `02-okul-oncesi-egitim-4-yas-cekirdek-1-ders-kitabi-11.md`
 - [ ] `12` Okul Öncesi Eğitim 4 Yaş Çekirdek 2 Ders Kitabı · [PDF](https://tymm.meb.gov.tr/assets/pdf/okul-oncesi-4-yas-cekirdek-2-ders-kitabi_20260915_205136_700.pdf) · `02-okul-oncesi-egitim-4-yas-cekirdek-2-ders-kitabi-12.md`
 - [ ] `13` Okul Öncesi Eğitim 4 Yaş Çekirdek 3 Ders Kitabı · [PDF](https://tymm.meb.gov.tr/assets/pdf/okul-oncesi-4-yas-cekirdek-3-ders-kitabi_20260915_205216_345.pdf) · `02-okul-oncesi-egitim-4-yas-cekirdek-3-ders-kitabi-13.md`
 
