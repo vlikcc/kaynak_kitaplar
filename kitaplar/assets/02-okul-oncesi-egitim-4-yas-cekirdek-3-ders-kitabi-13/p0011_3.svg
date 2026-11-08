@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="218.449" height="191.14807" viewBox="0 0 218.449 191.14807">
+<defs>
+<path id="font_1_24" d="M.519989 .70899966H.04598999V.621994H.42900086C.2599945 .3809967 .19099427 .23298645 .13798523 0H.23199463C.2709961 .22698975 .3600006 .42199708 .519989 .6349945V.70899966Z"/>
+</defs>
+<path transform="matrix(1,0,0,-1,0,191.14807)" stroke-width="3" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#fdb738" d="M4 4.19507H214.449V187.14807H4Z"/>
+<use data-text="7" xlink:href="#font_1_24" transform="matrix(159.02436,0,0,-159.02436,76.7677,151.80933)"/>
+</svg>
