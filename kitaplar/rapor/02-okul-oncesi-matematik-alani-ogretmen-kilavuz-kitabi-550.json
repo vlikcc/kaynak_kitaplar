@@ -1,0 +1,29 @@
+{
+ "kitap_id": 550,
+ "baslik": "Okul Öncesi Matematik Alanı Öğretmen Kılavuz Kitabı",
+ "sayfa": "0-221",
+ "pdf_sayfa": 222,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 420.6,
+  "gemma": 2105.8,
+  "merge": 1.9,
+  "total": 2528.3
+ },
+ "sayfa_basi_sn": 11.4,
+ "birlestirme": {
+  "formul": 228,
+  "DOGRULANAMADI": 22,
+  "METINDE": 206,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 14
+ },
+ "gemma_formul": {
+  "total": 228,
+  "katex_ok": 228,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 22
+}
