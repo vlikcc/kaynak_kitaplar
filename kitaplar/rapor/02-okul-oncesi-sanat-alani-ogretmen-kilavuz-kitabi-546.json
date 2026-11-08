@@ -1,0 +1,27 @@
+{
+ "kitap_id": 546,
+ "baslik": "Okul Öncesi Sanat Alanı Öğretmen Kılavuz Kitabı",
+ "sayfa": "0-153",
+ "pdf_sayfa": 154,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 190.4,
+  "gemma": 1557.5,
+  "merge": 1.4,
+  "total": 1749.2
+ },
+ "sayfa_basi_sn": 11.4,
+ "birlestirme": {
+  "formul": 0,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 10
+ },
+ "gemma_formul": {
+  "total": 0,
+  "katex_ok": 0,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 0
+}
