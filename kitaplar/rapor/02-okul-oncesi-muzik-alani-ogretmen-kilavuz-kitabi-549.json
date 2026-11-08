@@ -1,0 +1,29 @@
+{
+ "kitap_id": 549,
+ "baslik": "Okul Öncesi Müzik Alanı Öğretmen Kılavuz Kitabı",
+ "sayfa": "0-110",
+ "pdf_sayfa": 111,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 92.3,
+  "gemma": 1028.3,
+  "merge": 1.0,
+  "total": 1121.6
+ },
+ "sayfa_basi_sn": 10.1,
+ "birlestirme": {
+  "formul": 75,
+  "DOGRULANAMADI": 73,
+  "METINDE": 2,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 16
+ },
+ "gemma_formul": {
+  "total": 75,
+  "katex_ok": 75,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 73
+}
