@@ -1,0 +1,28 @@
+{
+ "kitap_id": 551,
+ "baslik": "Okul Öncesi Hareket Ve Sağlık Alanı Öğretmen Kılavuz Kitabı",
+ "sayfa": "0-131",
+ "pdf_sayfa": 132,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 123.0,
+  "gemma": 1296.8,
+  "merge": 1.1,
+  "total": 1420.9
+ },
+ "sayfa_basi_sn": 10.8,
+ "birlestirme": {
+  "formul": 5,
+  "METINDE": 5,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 13
+ },
+ "gemma_formul": {
+  "total": 5,
+  "katex_ok": 5,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 0
+}
