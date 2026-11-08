@@ -1,0 +1,29 @@
+{
+ "kitap_id": 547,
+ "baslik": "Okul Öncesi Oyun Etkinlikleri Öğretmen Kılavuz Kitabı",
+ "sayfa": "0-130",
+ "pdf_sayfa": 131,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 159.1,
+  "gemma": 1308.1,
+  "merge": 1.1,
+  "total": 1468.3
+ },
+ "sayfa_basi_sn": 11.2,
+ "birlestirme": {
+  "formul": 19,
+  "METINDE": 10,
+  "DOGRULANAMADI": 9,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 15
+ },
+ "gemma_formul": {
+  "total": 19,
+  "katex_ok": 19,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 9
+}
