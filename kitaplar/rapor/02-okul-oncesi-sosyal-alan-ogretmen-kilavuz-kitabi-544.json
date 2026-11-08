@@ -1,0 +1,28 @@
+{
+ "kitap_id": 544,
+ "baslik": "Okul Öncesi Sosyal Alan Öğretmen Kılavuz Kitabı",
+ "sayfa": "0-149",
+ "pdf_sayfa": 150,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 210.9,
+  "gemma": 1522.1,
+  "merge": 1.3,
+  "total": 1734.4
+ },
+ "sayfa_basi_sn": 11.6,
+ "birlestirme": {
+  "formul": 24,
+  "DOGRULANAMADI": 24,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 9
+ },
+ "gemma_formul": {
+  "total": 24,
+  "katex_ok": 24,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 24
+}
