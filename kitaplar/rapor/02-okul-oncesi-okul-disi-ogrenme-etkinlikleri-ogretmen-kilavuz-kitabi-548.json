@@ -1,0 +1,28 @@
+{
+ "kitap_id": 548,
+ "baslik": "Okul Öncesi Okul Dışı Öğrenme Etkinlikleri Öğretmen Kılavuz Kitabı",
+ "sayfa": "0-154",
+ "pdf_sayfa": 155,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 151.5,
+  "gemma": 1459.8,
+  "merge": 1.2,
+  "total": 1612.6
+ },
+ "sayfa_basi_sn": 10.4,
+ "birlestirme": {
+  "formul": 5,
+  "DOGRULANAMADI": 5,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 20
+ },
+ "gemma_formul": {
+  "total": 5,
+  "katex_ok": 5,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 5
+}
