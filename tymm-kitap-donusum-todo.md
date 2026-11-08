@@ -1,6 +1,6 @@
 # TYMM kitapları — Markdown'a dönüştürme listesi
 
-Kaynak: https://tymm.meb.gov.tr/Kitap/GetDersKitaplariList (324 kitap). Biten: **0/324**.
+Kaynak: https://tymm.meb.gov.tr/Kitap/GetDersKitaplariList (324 kitap). Biten: **1/324**.
 
 Her satır: `[ ]` durum · kitap_id · kitap adı · PDF · hedef dosya adı. Bir kitap birden fazla sınıfa ait olduğunda ilk sınıfının altında listelenir; diğer sınıflar parantez içinde yazılır.
 
@@ -18,7 +18,7 @@ Her satır: `[ ]` durum · kitap_id · kitap adı · PDF · hedef dosya adı. Bi
 
 ### 36-48 Ay (14)
 
-- [ ] `554` Okul Öncesi Aile Eğitimi Ve Katılımı Rehberi Yardımcı Kitap (ayrıca: 48-60 Ay, 60-72 Ay) · [PDF](https://tymm.meb.gov.tr/assets/pdf/okul-oncesi-aile-egitimi-ve-katilimi-rehberi-yardimci-kitap_20261027_120343_665.pdf) · `02-okul-oncesi-aile-egitimi-ve-katilimi-rehberi-yardimci-kitap-554.md`
+- [x] `554` Okul Öncesi Aile Eğitimi Ve Katılımı Rehberi Yardımcı Kitap (ayrıca: 48-60 Ay, 60-72 Ay) · [PDF](https://tymm.meb.gov.tr/assets/pdf/okul-oncesi-aile-egitimi-ve-katilimi-rehberi-yardimci-kitap_20261027_120343_665.pdf) · `02-okul-oncesi-aile-egitimi-ve-katilimi-rehberi-yardimci-kitap-554.md`
 - [ ] `553` Okul Öncesi Evde Oyun Rehberi Yardımcı Kitabı (ayrıca: 48-60 Ay, 60-72 Ay) · [PDF](https://tymm.meb.gov.tr/assets/pdf/okul-oncesi-evde-oyun-rehberi-yardimci-kitabi_20261027_120458_466.pdf) · `02-okul-oncesi-evde-oyun-rehberi-yardimci-kitabi-553.md`
 - [ ] `9` Okul Öncesi Eğitim 3 Yaş Çekirdek 1 Ders Kitabı · [PDF](https://tymm.meb.gov.tr/assets/pdf/okul-oncesi-3-yas-cekirdek-1-ders-kitabi_20260915_204438_787.pdf) · `02-okul-oncesi-egitim-3-yas-cekirdek-1-ders-kitabi-9.md`
 - [ ] `10` Okul Öncesi Eğitim 3 Yaş Çekirdek 2 Ders Kitabı · [PDF](https://tymm.meb.gov.tr/assets/pdf/okul-oncesi-3-yas-cekirdek-2-ders-kitabi_20260915_204546_149.pdf) · `02-okul-oncesi-egitim-3-yas-cekirdek-2-ders-kitabi-10.md`

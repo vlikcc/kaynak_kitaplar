@@ -1,0 +1,28 @@
+{
+ "kitap_id": 554,
+ "baslik": "Okul Öncesi Aile Eğitimi Ve Katılımı Rehberi Yardımcı Kitap",
+ "sayfa": "0-143",
+ "pdf_sayfa": 144,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 18.7,
+  "marker": 199.4,
+  "gemma": 1749.1,
+  "merge": 1.6,
+  "total": 1968.8
+ },
+ "sayfa_basi_sn": 13.7,
+ "birlestirme": {
+  "formul": 9,
+  "DOGRULANAMADI": 9,
+  "eksik_olabilir": 1,
+  "paragraf_isareti": 10
+ },
+ "gemma_formul": {
+  "total": 9,
+  "katex_ok": 9,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 9
+}
