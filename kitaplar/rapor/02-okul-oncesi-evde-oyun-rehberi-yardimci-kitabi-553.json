@@ -1,0 +1,29 @@
+{
+ "kitap_id": 553,
+ "baslik": "Okul Öncesi Evde Oyun Rehberi Yardımcı Kitabı",
+ "sayfa": "0-184",
+ "pdf_sayfa": 185,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 106.9,
+  "gemma": 1253.0,
+  "merge": 1.1,
+  "total": 1360.9
+ },
+ "sayfa_basi_sn": 7.4,
+ "birlestirme": {
+  "formul": 11,
+  "METINDE": 10,
+  "DOGRULANAMADI": 1,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 8
+ },
+ "gemma_formul": {
+  "total": 11,
+  "katex_ok": 11,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 1
+}
