@@ -1,0 +1,29 @@
+{
+ "kitap_id": 179,
+ "baslik": "Beden Eğitimi Ve Spor Dersi Öğretmen Kılavuz Kitabı (1-4.Sınıf)",
+ "sayfa": "0-381",
+ "pdf_sayfa": 382,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 318.9,
+  "gemma": 3179.2,
+  "merge": 3.2,
+  "total": 3501.4
+ },
+ "sayfa_basi_sn": 9.2,
+ "birlestirme": {
+  "formul": 126,
+  "DOGRULANAMADI": 80,
+  "METINDE": 46,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 46
+ },
+ "gemma_formul": {
+  "total": 126,
+  "katex_ok": 126,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 80
+}
