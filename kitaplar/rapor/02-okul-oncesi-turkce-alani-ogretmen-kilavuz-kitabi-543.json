@@ -1,0 +1,29 @@
+{
+ "kitap_id": 543,
+ "baslik": "Okul Öncesi Türkçe Alanı Öğretmen Kılavuz Kitabı",
+ "sayfa": "0-199",
+ "pdf_sayfa": 200,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 252.0,
+  "gemma": 1958.2,
+  "merge": 1.7,
+  "total": 2211.9
+ },
+ "sayfa_basi_sn": 11.1,
+ "birlestirme": {
+  "formul": 36,
+  "METINDE": 4,
+  "DOGRULANAMADI": 32,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 17
+ },
+ "gemma_formul": {
+  "total": 36,
+  "katex_ok": 36,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 32
+}
