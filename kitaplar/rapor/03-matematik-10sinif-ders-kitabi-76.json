@@ -1,0 +1,30 @@
+{
+ "kitap_id": 76,
+ "baslik": "Matematik 10.Sınıf Ders Kitabı",
+ "sayfa": "70-99",
+ "pdf_sayfa": 416,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA A100-SXM4-40GB, 40960 MiB",
+ "sure_sn": {
+  "download": 181.1,
+  "marker": 121.5,
+  "gemma": 490.8,
+  "merge": 0.9,
+  "total": 794.2
+ },
+ "sayfa_basi_sn": 26.5,
+ "birlestirme": {
+  "formul": 432,
+  "UYUMLU": 104,
+  "METINDE": 307,
+  "DOGRULANAMADI": 21,
+  "eksik_olabilir": 3,
+  "paragraf_isareti": 0
+ },
+ "gemma_formul": {
+  "total": 432,
+  "katex_ok": 432,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 21
+}
