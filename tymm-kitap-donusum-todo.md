@@ -1,6 +1,6 @@
 # TYMM kitapları — Markdown'a dönüştürme listesi
 
-Kaynak: https://tymm.meb.gov.tr/Kitap/GetDersKitaplariList (324 kitap). Biten: **12/324**.
+Kaynak: https://tymm.meb.gov.tr/Kitap/GetDersKitaplariList (324 kitap). Biten: **13/324**.
 
 Her satır: `[ ]` durum · kitap_id · kitap adı · PDF · hedef dosya adı. Bir kitap birden fazla sınıfa ait olduğunda ilk sınıfının altında listelenir; diğer sınıflar parantez içinde yazılır.
 
@@ -30,7 +30,7 @@ Her satır: `[ ]` durum · kitap_id · kitap adı · PDF · hedef dosya adı. Bi
 - [x] `547` Okul Öncesi Oyun Etkinlikleri Öğretmen Kılavuz Kitabı (ayrıca: 48-60 Ay, 60-72 Ay) · [PDF](https://tymm.meb.gov.tr/assets/pdf/okul-oncesi-oyun-etkinlikleri-ogretmen-kilavuz-kitabi_20261027_120130_982.pdf) · `02-okul-oncesi-oyun-etkinlikleri-ogretmen-kilavuz-kitabi-547.md`
 - [x] `546` Okul Öncesi Sanat Alanı Öğretmen Kılavuz Kitabı (ayrıca: 48-60 Ay, 60-72 Ay) · [PDF](https://tymm.meb.gov.tr/assets/pdf/okul-oncesi-sanat-alani-ogretmen-kilavuz-kitabi_20261027_120230_725.pdf) · `02-okul-oncesi-sanat-alani-ogretmen-kilavuz-kitabi-546.md`
 - [x] `544` Okul Öncesi Sosyal Alan Öğretmen Kılavuz Kitabı (ayrıca: 48-60 Ay, 60-72 Ay) · [PDF](https://tymm.meb.gov.tr/assets/pdf/okul-oncesi-sosyal-alan-ogretmen-kilavuz-kitabi_20261027_115213_147.pdf) · `02-okul-oncesi-sosyal-alan-ogretmen-kilavuz-kitabi-544.md`
-- [ ] `545` Okul Öncesi Sosyal-Duygusal Öğrenme Becerileri Ve Değerler Öğretmen Kılavuz Kitabı (ayrıca: 48-60 Ay, 60-72 Ay) · [PDF](https://tymm.meb.gov.tr/assets/pdf/okul-oncesi-sosyal-duygusal-ogrenme-becerileri-ve-degerler-ogretmen-ki_20261027_115144_598.pdf) · `02-okul-oncesi-sosyal-duygusal-ogrenme-becerileri-ve-degerler-ogretmen-kilavuz-kitabi-545.md`
+- [x] `545` Okul Öncesi Sosyal-Duygusal Öğrenme Becerileri Ve Değerler Öğretmen Kılavuz Kitabı (ayrıca: 48-60 Ay, 60-72 Ay) · [PDF](https://tymm.meb.gov.tr/assets/pdf/okul-oncesi-sosyal-duygusal-ogrenme-becerileri-ve-degerler-ogretmen-ki_20261027_115144_598.pdf) · `02-okul-oncesi-sosyal-duygusal-ogrenme-becerileri-ve-degerler-ogretmen-kilavuz-kitabi-545.md`
 - [ ] `543` Okul Öncesi Türkçe Alanı Öğretmen Kılavuz Kitabı (ayrıca: 48-60 Ay, 60-72 Ay) · [PDF](https://tymm.meb.gov.tr/assets/pdf/okul-oncesi-turkce-alani-ogretmen-kilavuz-kitabi_20261027_115336_968.pdf) · `02-okul-oncesi-turkce-alani-ogretmen-kilavuz-kitabi-543.md`
 
 ### 48-60 Ay (3)

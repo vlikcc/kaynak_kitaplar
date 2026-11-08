@@ -1,0 +1,28 @@
+{
+ "kitap_id": 545,
+ "baslik": "Okul Öncesi Sosyal-Duygusal Öğrenme Becerileri Ve Değerler Öğretmen Kılavuz Kitabı",
+ "sayfa": "0-181",
+ "pdf_sayfa": 182,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 193.8,
+  "gemma": 1583.8,
+  "merge": 1.4,
+  "total": 1778.9
+ },
+ "sayfa_basi_sn": 9.8,
+ "birlestirme": {
+  "formul": 27,
+  "DOGRULANAMADI": 27,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 15
+ },
+ "gemma_formul": {
+  "total": 27,
+  "katex_ok": 27,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 27
+}
