@@ -1,0 +1,30 @@
+{
+ "kitap_id": 271,
+ "baslik": "Fen Bilimleri 3.Sınıf Ders Kitabı (2.Kitap)",
+ "sayfa": "0-161",
+ "pdf_sayfa": 162,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 218.1,
+  "gemma": 855.5,
+  "merge": 3.0,
+  "total": 1076.6
+ },
+ "sayfa_basi_sn": 6.6,
+ "birlestirme": {
+  "formul": 46,
+  "DOGRULANAMADI": 16,
+  "METINDE": 2,
+  "SEMBOL": 28,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 23
+ },
+ "gemma_formul": {
+  "total": 46,
+  "katex_ok": 46,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 16
+}
