@@ -1,6 +1,6 @@
 # TYMM kitapları — Markdown'a dönüştürme listesi
 
-Kaynak: https://tymm.meb.gov.tr/Kitap/GetDersKitaplariList (324 kitap). Biten: **37/324**.
+Kaynak: https://tymm.meb.gov.tr/Kitap/GetDersKitaplariList (324 kitap). Biten: **38/324**.
 
 Her satır: `[ ]` durum · kitap_id · kitap adı · PDF · hedef dosya adı. Bir kitap birden fazla sınıfa ait olduğunda ilk sınıfının altında listelenir; diğer sınıflar parantez içinde yazılır.
 
@@ -67,7 +67,7 @@ Her satır: `[ ]` durum · kitap_id · kitap adı · PDF · hedef dosya adı. Bi
 - [x] `50` Hayat Bilgisi 2.Sınıf Ders Kitabı (1.Kitap) · [PDF](https://meb.ai/IWcGiK) · `02-hayat-bilgisi-2sinif-ders-kitabi-1kitap-50.md`
 - [x] `51` Hayat Bilgisi 2.Sınıf Ders Kitabı (2.Kitap) · [PDF](https://meb.ai/UoJKV4o) · `02-hayat-bilgisi-2sinif-ders-kitabi-2kitap-51.md`
 - [x] `151` İngilizce Dersi 2.Sınıf Ders Kitabı · [PDF](https://meb.ai/UjICisN) · `02-ingilizce-dersi-2sinif-ders-kitabi-151.md`
-- [ ] `152` İngilizce Dersi 2.Sınıf Çalışma Kitabı · [PDF](https://meb.ai/giUrK9) · `02-ingilizce-dersi-2sinif-calisma-kitabi-152.md`
+- [x] `152` İngilizce Dersi 2.Sınıf Çalışma Kitabı · [PDF](https://meb.ai/giUrK9) · `02-ingilizce-dersi-2sinif-calisma-kitabi-152.md`
 - [ ] `214` İngilizce Dersi 2.Sınıf Öğretmen Kılavuz Kitabı · [PDF](https://meb.ai/UYvUQ6G) · `02-ingilizce-dersi-2sinif-ogretmen-kilavuz-kitabi-214.md`
 - [ ] `52` Matematik 2.Sınıf Ders Kitabı (1.Kitap) · [PDF](https://meb.ai/dW5ziI) · `02-matematik-2sinif-ders-kitabi-1kitap-52.md`
 - [ ] `53` Matematik 2.Sınıf Ders Kitabı (2.Kitap) · [PDF](https://meb.ai/UeQe5Lz) · `02-matematik-2sinif-ders-kitabi-2kitap-53.md`
