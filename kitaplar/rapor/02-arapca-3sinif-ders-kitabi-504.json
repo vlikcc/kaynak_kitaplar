@@ -1,0 +1,30 @@
+{
+ "kitap_id": 504,
+ "baslik": "Arapça 3.Sınıf Ders Kitabı",
+ "sayfa": "0-237",
+ "pdf_sayfa": 238,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 779.6,
+  "gemma": 1309.8,
+  "merge": 8.6,
+  "total": 2098.1
+ },
+ "sayfa_basi_sn": 8.8,
+ "birlestirme": {
+  "formul": 113,
+  "SEMBOL": 106,
+  "METINDE": 2,
+  "DOGRULANAMADI": 5,
+  "eksik_olabilir": 1,
+  "paragraf_isareti": 18
+ },
+ "gemma_formul": {
+  "total": 113,
+  "katex_ok": 113,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 5
+}
