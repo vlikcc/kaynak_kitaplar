@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="450" height="248" viewBox="0 0 450 248">
+<defs>
+<path id="font_1_114" d="M.21398926 .33099366H.10998535V.22698975H.21398926V.33099366Z"/>
+</defs>
+<path transform="matrix(1,0,0,-1,0,248)" d="M14.1939 243.4444C9.4969 243.4444 5.6899 239.63739 5.6899 234.9404V13.42041C5.6899 8.72437 9.4969 4.91638 14.1939 4.91638H435.5559C440.2529 4.91638 444.0599 8.72437 444.0599 13.42041V234.9404C444.0599 239.63739 440.2529 243.4444 435.5559 243.4444H14.1939" fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,248)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#06b89e" d="M14.1939 243.4444C9.4969 243.4444 5.6899 239.63739 5.6899 234.9404V13.42041C5.6899 8.72437 9.4969 4.91638 14.1939 4.91638H435.5559C440.2529 4.91638 444.0599 8.72437 444.0599 13.42041V234.9404C444.0599 239.63739 440.2529 243.4444 435.5559 243.4444H14.1939"/>
+<use data-text="&#x00b7;" xlink:href="#font_1_114" transform="matrix(32.724016,0,0,-32.724016,20.655999,67.07013)"/>
+<use data-text="&#x00b7;" xlink:href="#font_1_114" transform="matrix(32.723989,0,0,-32.723989,20.655999,138.07798)"/>
+<use data-text="&#x00b7;" xlink:href="#font_1_114" transform="matrix(32.723989,0,0,-32.723989,20.655999,191.0859)"/>
+</svg>

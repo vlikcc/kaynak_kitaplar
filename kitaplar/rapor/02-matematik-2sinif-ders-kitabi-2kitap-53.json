@@ -1,0 +1,77 @@
+{
+ "kitap_id": 53,
+ "baslik": "Matematik 2.Sınıf Ders Kitabı (2.Kitap)",
+ "sayfa": "0-201",
+ "pdf_sayfa": 202,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA A100-SXM4-80GB, 81920 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 161.9,
+  "gemma": 742.8,
+  "merge": 1.2,
+  "total": 906.0
+ },
+ "sayfa_basi_sn": 4.5,
+ "birlestirme": {
+  "formul": 747,
+  "DOGRULANAMADI": 245,
+  "METINDE": 310,
+  "SEMBOL": 187,
+  "CELISKI": 2,
+  "UYUMLU": 3,
+  "eksik_olabilir": 4,
+  "paragraf_isareti": 37
+ },
+ "gemma_formul": {
+  "total": 747,
+  "katex_ok": 736,
+  "bad_examples": [
+   [
+    "\\begin{array}{r@{\\quad}l}\n4 & \\longrightarrow \\text{çarpan} \\\\\n\\times 3 & \\longrightarrow \\text{çarpan} \\\\\n\\dots\\dots & \\longrightarrow \\text{çarpım}\n\\end{array}",
+    "KaTeX parse error: Unknown column alignment: @ at position 16: \\begin{array}{r@̲{\\quad}l}\n4 & \\…"
+   ],
+   [
+    "\\begin{array}{r@{\\quad}l}\n\\dots\\dots & \\text{bölünen} \\longrightarrow \\\\\n- \\dots\\dots & \\\\\n\\dots\\dots & \\text{kalan} \\longrightarrow \\quad | \\quad 2 \\longrightarrow \\text{bölen} \\\\\n& \\quad \\text{---} \\longrightarrow \\text{bölü çizgisi} \\\\\n& \\quad \\dots\\dots \\longrightarrow \\text{bölüm}\n\\end{array}",
+    "KaTeX parse error: Unknown column alignment: @ at position 16: \\begin{array}{r@̲{\\quad}l}\n\\dots…"
+   ],
+   [
+    "\\begin{array}{r@{\\quad}l}\n5 & \\text{Bu çarpma işleminde 5 sayısı çarpan, 4 sayısı} \\\\\n\\times 4 & \\text{................................ ve .............................. sayısı çarpımdır.} \\\\\n\\dots\\dots & \\text{Bu işlemi “5 çarpı 4” veya “5 kere 4” şeklinde} \\\\\n& \\text{okuyabiliriz.}\n\\end{array}",
+    "KaTeX parse error: Unknown column alignment: @ at position 16: \\begin{array}{r@̲{\\quad}l}\n5 & \\…"
+   ],
+   [
+    "\\begin{array}{r@{\\quad}l}\n3 & \\text{Bu çarpma işleminde ................... sayısı çarpan, 2 sayısı} \\\\\n\\times 2 & \\text{........................... ve .............................. sayısı çarpımdır. Bu işlemi} \\\\\n\\dots\\dots & \\text{“.................. çarpı ..................” veya “.................. kere ..................”} \\\\\n& \\text{şeklinde okuyabiliriz.}\n\\end{array}",
+    "KaTeX parse error: Unknown column alignment: @ at position 16: \\begin{array}{r@̲{\\quad}l}\n3 & \\…"
+   ],
+   [
+    "\\begin{array}{r@{\\quad}l}\n12 & \\text{Bu bölme işleminde .......................... sayısı bölünen, 3} \\\\\n\\overline{\\vert \\quad 3} & \\text{sayısı ............................... dir. Bu işlemde bölüm .............................} \\\\\n\\dots\\dots & \\text{ve kalan .......................’dır.} \\\\\n& \\text{Bu işlemi “................... bölü .................” şeklinde okuyabiliriz.}\n\\end{array}",
+    "KaTeX parse error: Unknown column alignment: @ at position 16: \\begin{array}{r@̲{\\quad}l}\n12 & …"
+   ],
+   [
+    "\\begin{array}{r@{\\quad}l}\n15 & \\text{Bu bölme işleminde 15 sayısı ..............................., ....................} \\\\\n\\overline{\\vert \\quad 5} & \\text{sayısı bölendir. Bu işlemde bölüm ............................. ve} \\\\\n\\dots\\dots & \\text{kalan .......................’dır.} \\\\\n& \\text{Bu işlemi “.................. bölü ................” şeklinde okuyabiliriz.}\n\\end{array}",
+    "KaTeX parse error: Unknown column alignment: @ at position 16: \\begin{array}{r@̲{\\quad}l}\n15 & …"
+   ],
+   [
+    "\\begin{array}{r@{\\quad}l}\n5 & \\\\\n\\times 4 & \\\\\n\\hline\n\\dots\\dots & \\text{öğrenci}\n\\end{array}",
+    "KaTeX parse error: Unknown column alignment: @ at position 16: \\begin{array}{r@̲{\\quad}l}\n5 & \\…"
+   ],
+   [
+    "\\begin{array}{r@{\\quad}l}\n20 & \\vert 4 \\\\\n-\\dots\\dots & \\dots\\dots \\\\\n\\hline\n00 &\n\\end{array}",
+    "KaTeX parse error: Unknown column alignment: @ at position 16: \\begin{array}{r@̲{\\quad}l}\n20 & …"
+   ],
+   [
+    "\\begin{array}{r@{\\quad}l} 10 & \\vert \\enspace 2 \\\\ \\underline{-\\dots\\dots} & \\dots\\dots \\\\ \\dots\\dots & \\end{array}",
+    "KaTeX parse error: Unknown column alignment: @ at position 16: \\begin{array}{r@̲{\\quad}l} 10 & …"
+   ],
+   [
+    "\\begin{array}{r@{\\quad}l} 9 & \\vert \\enspace 3 \\\\ \\underline{-\\dots\\dots} & \\dots\\dots \\\\ \\dots\\dots & \\end{array}",
+    "KaTeX parse error: Unknown column alignment: @ at position 16: \\begin{array}{r@̲{\\quad}l} 9 & \\…"
+   ],
+   [
+    "\\begin{array}{r@{\\quad}l} 20 & \\vert \\enspace 4 \\\\ \\underline{-\\dots\\dots} & \\dots\\dots \\\\ \\dots\\dots & \\end{array}",
+    "KaTeX parse error: Unknown column alignment: @ at position 16: \\begin{array}{r@̲{\\quad}l} 20 & …"
+   ]
+  ]
+ },
+ "inceleme_bekleyen": 247
+}
