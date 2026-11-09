@@ -1,0 +1,28 @@
+{
+ "kitap_id": 282,
+ "baslik": "Müzik 2.Sınıf Ders Kitabı",
+ "sayfa": "0-101",
+ "pdf_sayfa": 102,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA A100-SXM4-80GB, 81920 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 76.2,
+  "gemma": 394.9,
+  "merge": 0.7,
+  "total": 471.8
+ },
+ "sayfa_basi_sn": 4.6,
+ "birlestirme": {
+  "formul": 125,
+  "SEMBOL": 125,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 10
+ },
+ "gemma_formul": {
+  "total": 125,
+  "katex_ok": 125,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 0
+}
