@@ -1,0 +1,30 @@
+{
+ "kitap_id": 58,
+ "baslik": "Türkçe 2.Sınıf Ders Kitabı (1.Kitap)",
+ "sayfa": "0-182",
+ "pdf_sayfa": 183,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 309.7,
+  "gemma": 1224.0,
+  "merge": 2.7,
+  "total": 1536.5
+ },
+ "sayfa_basi_sn": 8.4,
+ "birlestirme": {
+  "formul": 30,
+  "METINDE": 1,
+  "DOGRULANAMADI": 7,
+  "SEMBOL": 22,
+  "eksik_olabilir": 6,
+  "paragraf_isareti": 23
+ },
+ "gemma_formul": {
+  "total": 30,
+  "katex_ok": 30,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 7
+}
