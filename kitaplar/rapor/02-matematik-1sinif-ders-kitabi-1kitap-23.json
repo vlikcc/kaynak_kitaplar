@@ -1,0 +1,29 @@
+{
+ "kitap_id": 23,
+ "baslik": "Matematik 1.Sınıf Ders Kitabı (1.Kitap)",
+ "sayfa": "0-191",
+ "pdf_sayfa": 192,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA A100-SXM4-80GB, 81920 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 217.6,
+  "gemma": 1027.9,
+  "merge": 5.5,
+  "total": 1251.1
+ },
+ "sayfa_basi_sn": 6.5,
+ "birlestirme": {
+  "formul": 546,
+  "DOGRULANAMADI": 372,
+  "METINDE": 174,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 64
+ },
+ "gemma_formul": {
+  "total": 546,
+  "katex_ok": 546,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 372
+}
