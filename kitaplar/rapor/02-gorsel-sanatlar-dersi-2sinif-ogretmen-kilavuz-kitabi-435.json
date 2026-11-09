@@ -1,0 +1,30 @@
+{
+ "kitap_id": 435,
+ "baslik": "Görsel Sanatlar Dersi 2.Sınıf Öğretmen Kılavuz Kitabı",
+ "sayfa": "0-134",
+ "pdf_sayfa": 135,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA A100-SXM4-80GB, 81920 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 130.5,
+  "gemma": 631.2,
+  "merge": 0.8,
+  "total": 762.5
+ },
+ "sayfa_basi_sn": 5.6,
+ "birlestirme": {
+  "formul": 44,
+  "SEMBOL": 39,
+  "DOGRULANAMADI": 4,
+  "METINDE": 1,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 18
+ },
+ "gemma_formul": {
+  "total": 44,
+  "katex_ok": 44,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 4
+}
