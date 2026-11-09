@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="108" height="55.268007" viewBox="0 0 108 55.268007">
+<defs>
+<path id="font_1_74" d="M.1499939 .5239868H.066986087V0H.1499939V.5239868M.1499939 .72898867H.06599426V.6239929H.1499939V.72898867Z"/>
+</defs>
+<path transform="matrix(1,0,0,-1,0,55.268007)" stroke-width="1.1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#15b8ff" d="M17.67099 50.26202C11.04398 50.26202 5.67099 44.88904 5.67099 38.26202V16.61603C5.67099 9.98901 11.04398 4.61603 17.67099 4.61603H41.80099C48.42899 4.61603 53.80099 9.98901 53.80099 16.61603V38.26202C53.80099 44.88904 48.42899 50.26202 41.80099 50.26202H17.67099"/>
+<path transform="matrix(1,0,0,-1,0,55.268007)" stroke-width="1.1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#15b8ff" d="M65.98401 50.26202C59.35699 50.26202 53.98401 44.88904 53.98401 38.26202V16.61603C53.98401 9.98901 59.35699 4.61603 65.98401 4.61603H90.11401C96.742 4.61603 102.11401 9.98901 102.11401 16.61603V38.26202C102.11401 44.88904 96.742 50.26202 90.11401 50.26202H65.98401"/>
+<use data-text="i" xlink:href="#font_1_74" transform="matrix(42.541208,0,0,-42.541208,74.994998,41.814405)"/>
+</svg>
