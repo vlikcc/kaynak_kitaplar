@@ -1,0 +1,79 @@
+{
+ "kitap_id": 214,
+ "baslik": "İngilizce Dersi 2.Sınıf Öğretmen Kılavuz Kitabı",
+ "sayfa": "0-135",
+ "pdf_sayfa": 136,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA A100-SXM4-80GB, 81920 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 110.4,
+  "gemma": 642.1,
+  "merge": 1.4,
+  "total": 753.9
+ },
+ "sayfa_basi_sn": 5.5,
+ "birlestirme": {
+  "formul": 68,
+  "DOGRULANAMADI": 18,
+  "SEMBOL": 46,
+  "METINDE": 4,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 160
+ },
+ "gemma_formul": {
+  "total": 68,
+  "katex_ok": 56,
+  "bad_examples": [
+   [
+    "\\text{\\rlap{",
+    "KaTeX parse error: Unexpected end of input in a macro argument, expected '}' at end of input: \\text{\\rlap{"
+   ],
+   [
+    "}}\\square",
+    "KaTeX parse error: Expected 'EOF', got '}' at position 1: }̲}\\square"
+   ],
+   [
+    "\\text{\\rlap{",
+    "KaTeX parse error: Unexpected end of input in a macro argument, expected '}' at end of input: \\text{\\rlap{"
+   ],
+   [
+    "}}",
+    "KaTeX parse error: Expected 'EOF', got '}' at position 1: }̲}"
+   ],
+   [
+    "\\text{\\rlap{",
+    "KaTeX parse error: Unexpected end of input in a macro argument, expected '}' at end of input: \\text{\\rlap{"
+   ],
+   [
+    "}}",
+    "KaTeX parse error: Expected 'EOF', got '}' at position 1: }̲}"
+   ],
+   [
+    "\\text{\\rlap{",
+    "KaTeX parse error: Unexpected end of input in a macro argument, expected '}' at end of input: \\text{\\rlap{"
+   ],
+   [
+    "}}",
+    "KaTeX parse error: Expected 'EOF', got '}' at position 1: }̲}"
+   ],
+   [
+    "\\text{\\sffamily X}",
+    "KaTeX parse error: Undefined control sequence: \\sffamily at position 7: \\text{\\̲s̲f̲f̲a̲m̲i̲l̲y̲ ̲X}"
+   ],
+   [
+    "\\text{\\sffamily X}",
+    "KaTeX parse error: Undefined control sequence: \\sffamily at position 7: \\text{\\̲s̲f̲f̲a̲m̲i̲l̲y̲ ̲X}"
+   ],
+   [
+    "\\text{\\sffamily X}",
+    "KaTeX parse error: Undefined control sequence: \\sffamily at position 7: \\text{\\̲s̲f̲f̲a̲m̲i̲l̲y̲ ̲X}"
+   ],
+   [
+    "\\text{\\sffamily X}",
+    "KaTeX parse error: Undefined control sequence: \\sffamily at position 7: \\text{\\̲s̲f̲f̲a̲m̲i̲l̲y̲ ̲X}"
+   ]
+  ]
+ },
+ "inceleme_bekleyen": 18
+}
