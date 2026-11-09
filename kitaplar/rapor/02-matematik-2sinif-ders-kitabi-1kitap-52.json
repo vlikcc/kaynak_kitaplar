@@ -1,0 +1,64 @@
+{
+ "kitap_id": 52,
+ "baslik": "Matematik 2.Sınıf Ders Kitabı (1.Kitap)",
+ "sayfa": "0-179",
+ "pdf_sayfa": 180,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA A100-SXM4-80GB, 81920 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 189.7,
+  "gemma": 593.4,
+  "merge": 1.0,
+  "total": 784.1
+ },
+ "sayfa_basi_sn": 4.4,
+ "birlestirme": {
+  "formul": 434,
+  "SEMBOL": 71,
+  "METINDE": 295,
+  "DOGRULANAMADI": 62,
+  "UYUMLU": 6,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 36
+ },
+ "gemma_formul": {
+  "total": 434,
+  "katex_ok": 426,
+  "bad_examples": [
+   [
+    "\\begin{array}{r@{\\quad}l}\n15 \\\\\n+\\ 12 \\\\\n\\hline\n\\dots\\dots\\dots\n\\end{array}",
+    "KaTeX parse error: Unknown column alignment: @ at position 16: \\begin{array}{r@̲{\\quad}l}\n15 \\\\…"
+   ],
+   [
+    "\\begin{array}{r@{\\quad}l}\n12 \\\\\n+\\ 15 \\\\\n\\hline\n\\dots\\dots\\dots\n\\end{array}",
+    "KaTeX parse error: Unknown column alignment: @ at position 16: \\begin{array}{r@̲{\\quad}l}\n12 \\\\…"
+   ],
+   [
+    "\\begin{array}{r@{\\quad}l}\n70 \\\\\n+\\ 15 \\\\\n\\hline\n\\dots\\dots\n\\end{array}",
+    "KaTeX parse error: Unknown column alignment: @ at position 16: \\begin{array}{r@̲{\\quad}l}\n70 \\\\…"
+   ],
+   [
+    "\\begin{array}{r@{\\quad}l}\n85 \\\\\n-\\ 70 \\\\\n\\hline\n\\dots\\dots\n\\end{array}",
+    "KaTeX parse error: Unknown column alignment: @ at position 16: \\begin{array}{r@̲{\\quad}l}\n85 \\\\…"
+   ],
+   [
+    "\\begin{array}{r@{\\quad}l} \\text{■} & \\longrightarrow \\text{1. toplanan} \\\\ + 15 & \\longrightarrow \\text{2. toplanan} \\\\ \\hline 49 & \\longrightarrow \\text{Toplam} \\end{array}",
+    "KaTeX parse error: Unknown column alignment: @ at position 16: \\begin{array}{r@̲{\\quad}l} \\text…"
+   ],
+   [
+    "\\begin{array}{r@{\\quad}l} 54 & \\longrightarrow \\text{1. toplanan} \\\\ + \\text{■} & \\longrightarrow \\text{2. toplanan} \\\\ \\hline 72 & \\longrightarrow \\text{Toplam} \\end{array}",
+    "KaTeX parse error: Unknown column alignment: @ at position 16: \\begin{array}{r@̲{\\quad}l} 54 & …"
+   ],
+   [
+    "\\begin{array}{r@{\\quad}l} \\text{■} & \\longrightarrow \\text{Eksilen} \\\\ - 17 & \\longrightarrow \\text{Çıkan} \\\\ \\hline 63 & \\longrightarrow \\text{Fark} \\end{array}",
+    "KaTeX parse error: Unknown column alignment: @ at position 16: \\begin{array}{r@̲{\\quad}l} \\text…"
+   ],
+   [
+    "\\begin{array}{r@{\\quad}l} 74 & \\longrightarrow \\text{Eksilen} \\\\ - \\text{■} & \\longrightarrow \\text{Çıkan} \\\\ \\hline 25 & \\longrightarrow \\text{Fark} \\end{array}",
+    "KaTeX parse error: Unknown column alignment: @ at position 16: \\begin{array}{r@̲{\\quad}l} 74 & …"
+   ]
+  ]
+ },
+ "inceleme_bekleyen": 62
+}
