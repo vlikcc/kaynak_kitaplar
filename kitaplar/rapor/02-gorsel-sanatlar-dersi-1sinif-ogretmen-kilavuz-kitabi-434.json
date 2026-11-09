@@ -1,0 +1,28 @@
+{
+ "kitap_id": 434,
+ "baslik": "Görsel Sanatlar Dersi 1.Sınıf Öğretmen Kılavuz Kitabı",
+ "sayfa": "0-116",
+ "pdf_sayfa": 117,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 142.2,
+  "gemma": 962.6,
+  "merge": 0.8,
+  "total": 1105.6
+ },
+ "sayfa_basi_sn": 9.4,
+ "birlestirme": {
+  "formul": 2,
+  "DOGRULANAMADI": 2,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 19
+ },
+ "gemma_formul": {
+  "total": 2,
+  "katex_ok": 2,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 2
+}
