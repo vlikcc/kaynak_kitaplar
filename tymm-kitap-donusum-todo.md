@@ -1,6 +1,6 @@
 # TYMM kitapları — Markdown'a dönüştürme listesi
 
-Kaynak: https://tymm.meb.gov.tr/Kitap/GetDersKitaplariList (324 kitap). Biten: **43/324**.
+Kaynak: https://tymm.meb.gov.tr/Kitap/GetDersKitaplariList (324 kitap). Biten: **44/324**.
 
 Her satır: `[ ]` durum · kitap_id · kitap adı · PDF · hedef dosya adı. Bir kitap birden fazla sınıfa ait olduğunda ilk sınıfının altında listelenir; diğer sınıflar parantez içinde yazılır.
 
@@ -73,7 +73,7 @@ Her satır: `[ ]` durum · kitap_id · kitap adı · PDF · hedef dosya adı. Bi
 - [x] `53` Matematik 2.Sınıf Ders Kitabı (2.Kitap) · [PDF](https://meb.ai/UeQe5Lz) · `02-matematik-2sinif-ders-kitabi-2kitap-53.md`
 - [x] `282` Müzik 2.Sınıf Ders Kitabı · [PDF](https://meb.ai/ZODdlz) · `02-muzik-2sinif-ders-kitabi-282.md`
 - [x] `58` Türkçe 2.Sınıf Ders Kitabı (1.Kitap) · [PDF](https://meb.ai/alMV9u) · `02-turkce-2sinif-ders-kitabi-1kitap-58.md`
-- [ ] `59` Türkçe 2.Sınıf Ders Kitabı (2.Kitap) · [PDF](https://meb.ai/xzwMpd) · `02-turkce-2sinif-ders-kitabi-2kitap-59.md`
+- [x] `59` Türkçe 2.Sınıf Ders Kitabı (2.Kitap) · [PDF](https://meb.ai/xzwMpd) · `02-turkce-2sinif-ders-kitabi-2kitap-59.md`
 
 ### 3. Sınıf (12)
 

@@ -1,0 +1,39 @@
+{
+ "kitap_id": 59,
+ "baslik": "Türkçe 2.Sınıf Ders Kitabı (2.Kitap)",
+ "sayfa": "0-184",
+ "pdf_sayfa": 185,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 235.5,
+  "gemma": 941.1,
+  "merge": 2.0,
+  "total": 1178.6
+ },
+ "sayfa_basi_sn": 6.4,
+ "birlestirme": {
+  "formul": 34,
+  "SEMBOL": 24,
+  "DOGRULANAMADI": 5,
+  "METINDE": 5,
+  "eksik_olabilir": 3,
+  "paragraf_isareti": 22
+ },
+ "gemma_formul": {
+  "total": 34,
+  "katex_ok": 32,
+  "bad_examples": [
+   [
+    "\\hexagon",
+    "KaTeX parse error: Undefined control sequence: \\hexagon at position 1: \\̲h̲e̲x̲a̲g̲o̲n̲"
+   ],
+   [
+    "\\hexagon",
+    "KaTeX parse error: Undefined control sequence: \\hexagon at position 1: \\̲h̲e̲x̲a̲g̲o̲n̲"
+   ]
+  ]
+ },
+ "inceleme_bekleyen": 5
+}
