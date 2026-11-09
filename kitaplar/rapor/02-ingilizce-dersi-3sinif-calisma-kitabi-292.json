@@ -1,0 +1,29 @@
+{
+ "kitap_id": 292,
+ "baslik": "İngilizce Dersi 3.Sınıf Çalışma Kitabı",
+ "sayfa": "0-64",
+ "pdf_sayfa": 65,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 233.2,
+  "gemma": 334.5,
+  "merge": 0.8,
+  "total": 568.5
+ },
+ "sayfa_basi_sn": 8.7,
+ "birlestirme": {
+  "formul": 20,
+  "SEMBOL": 19,
+  "DOGRULANAMADI": 1,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 10
+ },
+ "gemma_formul": {
+  "total": 20,
+  "katex_ok": 20,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 1
+}
