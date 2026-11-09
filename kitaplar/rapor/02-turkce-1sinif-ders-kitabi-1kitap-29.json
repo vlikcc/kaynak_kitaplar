@@ -1,0 +1,46 @@
+{
+ "kitap_id": 29,
+ "baslik": "Türkçe 1.Sınıf Ders Kitabı (1.Kitap)",
+ "sayfa": "0-157",
+ "pdf_sayfa": 158,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA A100-SXM4-80GB, 81920 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 268.1,
+  "gemma": 652.2,
+  "merge": 7.5,
+  "total": 927.8
+ },
+ "sayfa_basi_sn": 5.9,
+ "birlestirme": {
+  "formul": 49,
+  "SEMBOL": 20,
+  "DOGRULANAMADI": 29,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 16
+ },
+ "gemma_formul": {
+  "total": 49,
+  "katex_ok": 45,
+  "bad_examples": [
+   [
+    "\\hexagon",
+    "KaTeX parse error: Undefined control sequence: \\hexagon at position 1: \\̲h̲e̲x̲a̲g̲o̲n̲"
+   ],
+   [
+    "\\hexagon",
+    "KaTeX parse error: Undefined control sequence: \\hexagon at position 1: \\̲h̲e̲x̲a̲g̲o̲n̲"
+   ],
+   [
+    "\\hexagon",
+    "KaTeX parse error: Undefined control sequence: \\hexagon at position 1: \\̲h̲e̲x̲a̲g̲o̲n̲"
+   ],
+   [
+    "\\pentagon",
+    "KaTeX parse error: Undefined control sequence: \\pentagon at position 1: \\̲p̲e̲n̲t̲a̲g̲o̲n̲"
+   ]
+  ]
+ },
+ "inceleme_bekleyen": 29
+}

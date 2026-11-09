@@ -1,6 +1,6 @@
 # TYMM kitapları — Markdown'a dönüştürme listesi
 
-Kaynak: https://tymm.meb.gov.tr/Kitap/GetDersKitaplariList (324 kitap). Biten: **28/324**.
+Kaynak: https://tymm.meb.gov.tr/Kitap/GetDersKitaplariList (324 kitap). Biten: **29/324**.
 
 Her satır: `[ ]` durum · kitap_id · kitap adı · PDF · hedef dosya adı. Bir kitap birden fazla sınıfa ait olduğunda ilk sınıfının altında listelenir; diğer sınıflar parantez içinde yazılır.
 
@@ -55,7 +55,7 @@ Her satır: `[ ]` durum · kitap_id · kitap adı · PDF · hedef dosya adı. Bi
 - [x] `23` Matematik 1.Sınıf Ders Kitabı (1.Kitap) · [PDF](https://tymm.meb.gov.tr/assets/pdf/matematik-1sinif-ders-kitabi-1kitap_20261021_201522_034.pdf) · `02-matematik-1sinif-ders-kitabi-1kitap-23.md`
 - [x] `24` Matematik 1.Sınıf Ders Kitabı (2.Kitap) · [PDF](https://tymm.meb.gov.tr/assets/pdf/matematik-1sinif-ders-kitabi-2kitap_20261021_202726_619.pdf) · `02-matematik-1sinif-ders-kitabi-2kitap-24.md`
 - [x] `137` Müzik 1.Sınıf Ders Kitabı · [PDF](https://meb.ai/U2X404g) · `02-muzik-1sinif-ders-kitabi-137.md`
-- [ ] `29` Türkçe 1.Sınıf Ders Kitabı (1.Kitap) · [PDF](https://tymm.meb.gov.tr/assets/pdf/turkce-1sinif-ders-kitabi-1kitap_20261021_182424_390.pdf) · `02-turkce-1sinif-ders-kitabi-1kitap-29.md`
+- [x] `29` Türkçe 1.Sınıf Ders Kitabı (1.Kitap) · [PDF](https://tymm.meb.gov.tr/assets/pdf/turkce-1sinif-ders-kitabi-1kitap_20261021_182424_390.pdf) · `02-turkce-1sinif-ders-kitabi-1kitap-29.md`
 - [ ] `30` Türkçe 1.Sınıf Ders Kitabı (2.Kitap) · [PDF](https://tymm.meb.gov.tr/assets/pdf/turkce-1sinif-ders-kitabi-2kitap_20261021_184051_320.pdf) · `02-turkce-1sinif-ders-kitabi-2kitap-30.md`
 - [ ] `31` Türkçe 1.Sınıf İlk Okuma Yazma Kitabı (1.Kitap) · [PDF](https://tymm.meb.gov.tr/assets/pdf/turkce-1sinif-ilk-okuma-yazma-kitabi-1kitap_20261004_203307_790.pdf) · `02-turkce-1sinif-ilk-okuma-yazma-kitabi-1kitap-31.md`
 - [ ] `32` Türkçe 1.Sınıf İlk Okuma Yazma Kitabı (2.Kitap) · [PDF](https://tymm.meb.gov.tr/assets/pdf/turkce-1sinif-ilk-okuma-yazma-kitabi-2kitap_20261004_215930_271.pdf) · `02-turkce-1sinif-ilk-okuma-yazma-kitabi-2kitap-32.md`
