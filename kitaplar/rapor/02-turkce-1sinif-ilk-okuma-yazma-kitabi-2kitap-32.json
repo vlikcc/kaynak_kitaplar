@@ -1,0 +1,30 @@
+{
+ "kitap_id": 32,
+ "baslik": "Türkçe 1.Sınıf İlk Okuma Yazma Kitabı (2.Kitap)",
+ "sayfa": "0-235",
+ "pdf_sayfa": 236,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA A100-SXM4-80GB, 81920 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 384.5,
+  "gemma": 733.4,
+  "merge": 4.4,
+  "total": 1122.3
+ },
+ "sayfa_basi_sn": 4.8,
+ "birlestirme": {
+  "formul": 281,
+  "SEMBOL": 279,
+  "DOGRULANAMADI": 1,
+  "METINDE": 1,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 9
+ },
+ "gemma_formul": {
+  "total": 281,
+  "katex_ok": 281,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 1
+}
