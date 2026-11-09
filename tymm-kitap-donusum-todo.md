@@ -1,6 +1,6 @@
 # TYMM kitapları — Markdown'a dönüştürme listesi
 
-Kaynak: https://tymm.meb.gov.tr/Kitap/GetDersKitaplariList (324 kitap). Biten: **32/324**.
+Kaynak: https://tymm.meb.gov.tr/Kitap/GetDersKitaplariList (324 kitap). Biten: **33/324**.
 
 Her satır: `[ ]` durum · kitap_id · kitap adı · PDF · hedef dosya adı. Bir kitap birden fazla sınıfa ait olduğunda ilk sınıfının altında listelenir; diğer sınıflar parantez içinde yazılır.
 
@@ -62,7 +62,7 @@ Her satır: `[ ]` durum · kitap_id · kitap adı · PDF · hedef dosya adı. Bi
 
 ### 2. Sınıf (12)
 
-- [ ] `503` Arapça 2.Sınıf Ders Kitabı · [PDF](https://tymm.meb.gov.tr/assets/pdf/arapca-2sinif-ders-kitabi_20261003_152355_029.pdf) · `02-arapca-2sinif-ders-kitabi-503.md`
+- [x] `503` Arapça 2.Sınıf Ders Kitabı · [PDF](https://tymm.meb.gov.tr/assets/pdf/arapca-2sinif-ders-kitabi_20261003_152355_029.pdf) · `02-arapca-2sinif-ders-kitabi-503.md`
 - [ ] `435` Görsel Sanatlar Dersi 2.Sınıf Öğretmen Kılavuz Kitabı · [PDF](https://tymm.meb.gov.tr/assets/pdf/gorsel-sanatlar-dersi-2sinif-ogretmen-kilavuz-kitabi_20260930_171440_798.pdf) · `02-gorsel-sanatlar-dersi-2sinif-ogretmen-kilavuz-kitabi-435.md`
 - [ ] `50` Hayat Bilgisi 2.Sınıf Ders Kitabı (1.Kitap) · [PDF](https://meb.ai/IWcGiK) · `02-hayat-bilgisi-2sinif-ders-kitabi-1kitap-50.md`
 - [ ] `51` Hayat Bilgisi 2.Sınıf Ders Kitabı (2.Kitap) · [PDF](https://meb.ai/UoJKV4o) · `02-hayat-bilgisi-2sinif-ders-kitabi-2kitap-51.md`

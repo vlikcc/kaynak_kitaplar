@@ -1,0 +1,28 @@
+{
+ "kitap_id": 503,
+ "baslik": "Arapça 2.Sınıf Ders Kitabı",
+ "sayfa": "0-227",
+ "pdf_sayfa": 228,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA A100-SXM4-80GB, 81920 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 498.4,
+  "gemma": 896.9,
+  "merge": 7.4,
+  "total": 1402.7
+ },
+ "sayfa_basi_sn": 6.2,
+ "birlestirme": {
+  "formul": 38,
+  "SEMBOL": 38,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 13
+ },
+ "gemma_formul": {
+  "total": 38,
+  "katex_ok": 38,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 0
+}
