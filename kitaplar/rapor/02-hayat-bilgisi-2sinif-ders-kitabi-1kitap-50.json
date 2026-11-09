@@ -1,0 +1,28 @@
+{
+ "kitap_id": 50,
+ "baslik": "Hayat Bilgisi 2.Sınıf Ders Kitabı (1.Kitap)",
+ "sayfa": "0-125",
+ "pdf_sayfa": 126,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA A100-SXM4-80GB, 81920 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 190.3,
+  "gemma": 480.2,
+  "merge": 1.2,
+  "total": 671.7
+ },
+ "sayfa_basi_sn": 5.3,
+ "birlestirme": {
+  "formul": 6,
+  "SEMBOL": 6,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 28
+ },
+ "gemma_formul": {
+  "total": 6,
+  "katex_ok": 6,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 0
+}
