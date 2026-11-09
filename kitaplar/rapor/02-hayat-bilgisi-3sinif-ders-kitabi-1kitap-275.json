@@ -1,0 +1,29 @@
+{
+ "kitap_id": 275,
+ "baslik": "Hayat Bilgisi 3.Sınıf Ders Kitabı (1.Kitap)",
+ "sayfa": "0-116",
+ "pdf_sayfa": 117,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 145.7,
+  "gemma": 676.2,
+  "merge": 1.0,
+  "total": 822.9
+ },
+ "sayfa_basi_sn": 7.0,
+ "birlestirme": {
+  "formul": 48,
+  "SEMBOL": 38,
+  "DOGRULANAMADI": 10,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 26
+ },
+ "gemma_formul": {
+  "total": 48,
+  "katex_ok": 48,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 10
+}
