@@ -1,0 +1,29 @@
+{
+ "kitap_id": 30,
+ "baslik": "Türkçe 1.Sınıf Ders Kitabı (2.Kitap)",
+ "sayfa": "0-167",
+ "pdf_sayfa": 168,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA A100-SXM4-80GB, 81920 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 179.2,
+  "gemma": 594.7,
+  "merge": 3.9,
+  "total": 777.9
+ },
+ "sayfa_basi_sn": 4.6,
+ "birlestirme": {
+  "formul": 75,
+  "SEMBOL": 50,
+  "DOGRULANAMADI": 25,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 26
+ },
+ "gemma_formul": {
+  "total": 75,
+  "katex_ok": 75,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 25
+}
