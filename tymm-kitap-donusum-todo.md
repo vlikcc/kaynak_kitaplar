@@ -1,6 +1,6 @@
 # TYMM kitapları — Markdown'a dönüştürme listesi
 
-Kaynak: https://tymm.meb.gov.tr/Kitap/GetDersKitaplariList (324 kitap). Biten: **23/324**.
+Kaynak: https://tymm.meb.gov.tr/Kitap/GetDersKitaplariList (324 kitap). Biten: **24/324**.
 
 Her satır: `[ ]` durum · kitap_id · kitap adı · PDF · hedef dosya adı. Bir kitap birden fazla sınıfa ait olduğunda ilk sınıfının altında listelenir; diğer sınıflar parantez içinde yazılır.
 
@@ -50,7 +50,7 @@ Her satır: `[ ]` durum · kitap_id · kitap adı · PDF · hedef dosya adı. Bi
 
 - [x] `179` Beden Eğitimi Ve Spor Dersi Öğretmen Kılavuz Kitabı (1-4.Sınıf) (ayrıca: 2. Sınıf) · [PDF](https://meb.ai/nI1DH3) · `02-beden-egitimi-ve-spor-dersi-ogretmen-kilavuz-kitabi-1-4sinif-179.md`
 - [x] `434` Görsel Sanatlar Dersi 1.Sınıf Öğretmen Kılavuz Kitabı · [PDF](https://tymm.meb.gov.tr/assets/pdf/gorsel-sanatlar-dersi-1sinif-ogretmen-kilavuz-kitabi_20260930_171830_933.pdf) · `02-gorsel-sanatlar-dersi-1sinif-ogretmen-kilavuz-kitabi-434.md`
-- [ ] `21` Hayat Bilgisi 1.Sınıf Ders Kitabı (1.Kitap) · [PDF](https://tymm.meb.gov.tr/assets/pdf/hayat-bilgisi-1sinif-ders-kitabi-1kitap_20261021_203927_118.pdf) · `02-hayat-bilgisi-1sinif-ders-kitabi-1kitap-21.md`
+- [x] `21` Hayat Bilgisi 1.Sınıf Ders Kitabı (1.Kitap) · [PDF](https://tymm.meb.gov.tr/assets/pdf/hayat-bilgisi-1sinif-ders-kitabi-1kitap_20261021_203927_118.pdf) · `02-hayat-bilgisi-1sinif-ders-kitabi-1kitap-21.md`
 - [ ] `22` Hayat Bilgisi 1.Sınıf Ders Kitabı (2.Kitap) · [PDF](https://tymm.meb.gov.tr/assets/pdf/hayat-bilgisi-1sinif-ders-kitabi-2kitap_20261021_205603_554.pdf) · `02-hayat-bilgisi-1sinif-ders-kitabi-2kitap-22.md`
 - [ ] `23` Matematik 1.Sınıf Ders Kitabı (1.Kitap) · [PDF](https://tymm.meb.gov.tr/assets/pdf/matematik-1sinif-ders-kitabi-1kitap_20261021_201522_034.pdf) · `02-matematik-1sinif-ders-kitabi-1kitap-23.md`
 - [ ] `24` Matematik 1.Sınıf Ders Kitabı (2.Kitap) · [PDF](https://tymm.meb.gov.tr/assets/pdf/matematik-1sinif-ders-kitabi-2kitap_20261021_202726_619.pdf) · `02-matematik-1sinif-ders-kitabi-2kitap-24.md`

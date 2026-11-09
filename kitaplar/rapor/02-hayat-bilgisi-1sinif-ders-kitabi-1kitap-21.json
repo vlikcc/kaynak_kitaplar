@@ -1,0 +1,28 @@
+{
+ "kitap_id": 21,
+ "baslik": "Hayat Bilgisi 1.Sınıf Ders Kitabı (1.Kitap)",
+ "sayfa": "0-127",
+ "pdf_sayfa": 128,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 224.0,
+  "gemma": 634.3,
+  "merge": 0.7,
+  "total": 859.0
+ },
+ "sayfa_basi_sn": 6.7,
+ "birlestirme": {
+  "formul": 86,
+  "DOGRULANAMADI": 86,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 27
+ },
+ "gemma_formul": {
+  "total": 86,
+  "katex_ok": 86,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 86
+}
