@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="356" height="56" viewBox="0 0 356 56">
+<defs>
+<path id="font_1_34" d="M.47399903 .21899414 .548996 0H.6529999L.39698792 .72898867H.2769928L.016998291 0H.115997318L.19299317 .21899414H.47399903M.44799806 .29699708H.21598816L.33599855 .6289978 .44799806 .29699708Z"/>
+<path id="font_1_45" d="M.17298889 .72898867H.07998657V0H.5329895V.08198547H.17298889V.72898867Z"/>
+<path id="font_1_47" d="M.6459961 .72898867H.55799868V.1329956L.1769867 .72898867H.07598877V0H.1639862V.59098818L.54100039 0H.6459961V.72898867Z"/>
+<path id="font_1_42" d="M.19400025 .72898867H.099990848V0H.19400025V.72898867Z"/>
+</defs>
+<path transform="matrix(1,0,0,-1,0,56)" d="M4.7531 17.64221 53.8821 4.37621 46.8001 22.74421 4.7531 17.64221" fill="#c6e4f7"/>
+<path transform="matrix(1,0,0,-1,0,56)" d="M4.7531 47.2359 350.5751 51.8279V17.6419H4.7531V47.2359" fill="#9bd1f2"/>
+<use data-text="A" xlink:href="#font_1_34" transform="matrix(20.379597,0,0,-20.379597,118.442508,28.314196)"/>
+<use data-text="L" xlink:href="#font_1_45" transform="matrix(20.379597,0,0,-20.379597,132.03569,28.314196)"/>
+<use data-text="A" xlink:href="#font_1_34" transform="matrix(20.379597,0,0,-20.379597,143.36675,28.314196)"/>
+<use data-text="N" xlink:href="#font_1_47" transform="matrix(20.379597,0,0,-20.379597,156.95993,28.314196)"/>
+<use data-text="I" xlink:href="#font_1_42" transform="matrix(20.379597,0,0,-20.379597,171.674,28.314196)"/>
+</svg>
