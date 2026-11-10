@@ -1,0 +1,30 @@
+{
+ "kitap_id": 47,
+ "baslik": "Sosyal Bilgiler 5.Sınıf Ders Kitabı (2.Kitap)",
+ "sayfa": "0-149",
+ "pdf_sayfa": 150,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 248.7,
+  "gemma": 1050.3,
+  "merge": 1.8,
+  "total": 1300.8
+ },
+ "sayfa_basi_sn": 8.7,
+ "birlestirme": {
+  "formul": 86,
+  "SEMBOL": 9,
+  "METINDE": 73,
+  "DOGRULANAMADI": 4,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 22
+ },
+ "gemma_formul": {
+  "total": 86,
+  "katex_ok": 86,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 4
+}
