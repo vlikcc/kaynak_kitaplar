@@ -1,0 +1,30 @@
+{
+ "kitap_id": 293,
+ "baslik": "İngilizce Dersi 3.Sınıf Öğretmen Kılavuz Kitabı",
+ "sayfa": "0-156",
+ "pdf_sayfa": 157,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 345.4,
+  "gemma": 1235.9,
+  "merge": 1.5,
+  "total": 1582.9
+ },
+ "sayfa_basi_sn": 10.1,
+ "birlestirme": {
+  "formul": 169,
+  "SEMBOL": 75,
+  "DOGRULANAMADI": 69,
+  "METINDE": 25,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 221
+ },
+ "gemma_formul": {
+  "total": 169,
+  "katex_ok": 169,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 69
+}

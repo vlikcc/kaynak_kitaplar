@@ -1,6 +1,6 @@
 # TYMM kitapları — Markdown'a dönüştürme listesi
 
-Kaynak: https://tymm.meb.gov.tr/Kitap/GetDersKitaplariList (324 kitap). Biten: **51/324**.
+Kaynak: https://tymm.meb.gov.tr/Kitap/GetDersKitaplariList (324 kitap). Biten: **52/324**.
 
 Her satır: `[ ]` durum · kitap_id · kitap adı · PDF · hedef dosya adı. Bir kitap birden fazla sınıfa ait olduğunda ilk sınıfının altında listelenir; diğer sınıflar parantez içinde yazılır.
 
@@ -84,7 +84,7 @@ Her satır: `[ ]` durum · kitap_id · kitap adı · PDF · hedef dosya adı. Bi
 - [x] `276` Hayat Bilgisi 3.Sınıf Ders Kitabı (2.Kitap) · [PDF](https://meb.ai/UpNUfOf) · `02-hayat-bilgisi-3sinif-ders-kitabi-2kitap-276.md`
 - [x] `291` İngilizce Dersi 3.Sınıf Ders Kitabı · [PDF](https://meb.ai/xOG3e6) · `02-ingilizce-dersi-3sinif-ders-kitabi-291.md`
 - [x] `292` İngilizce Dersi 3.Sınıf Çalışma Kitabı · [PDF](https://meb.ai/SKR3OC) · `02-ingilizce-dersi-3sinif-calisma-kitabi-292.md`
-- [ ] `293` İngilizce Dersi 3.Sınıf Öğretmen Kılavuz Kitabı · [PDF](https://meb.ai/UmY0zvf) · `02-ingilizce-dersi-3sinif-ogretmen-kilavuz-kitabi-293.md`
+- [x] `293` İngilizce Dersi 3.Sınıf Öğretmen Kılavuz Kitabı · [PDF](https://meb.ai/UmY0zvf) · `02-ingilizce-dersi-3sinif-ogretmen-kilavuz-kitabi-293.md`
 - [ ] `278` Matematik 3.Sınıf Ders Kitabı (1.Kitap) · [PDF](https://meb.ai/lFLkBe) · `02-matematik-3sinif-ders-kitabi-1kitap-278.md`
 - [ ] `279` Matematik 3.Sınıf Ders Kitabı (2.Kitap) · [PDF](https://meb.ai/Ux6k4N3) · `02-matematik-3sinif-ders-kitabi-2kitap-279.md`
 - [ ] `285` Türkçe 3.Sınıf Ders Kitabı (1.Kitap) · [PDF](https://meb.ai/Ue2CBkM) · `02-turkce-3sinif-ders-kitabi-1kitap-285.md`
