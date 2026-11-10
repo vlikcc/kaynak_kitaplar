@@ -1,6 +1,6 @@
 # TYMM kitapları — Markdown'a dönüştürme listesi
 
-Kaynak: https://tymm.meb.gov.tr/Kitap/GetDersKitaplariList (324 kitap). Biten: **60/324**.
+Kaynak: https://tymm.meb.gov.tr/Kitap/GetDersKitaplariList (324 kitap). Biten: **61/324**.
 
 Her satır: `[ ]` durum · kitap_id · kitap adı · PDF · hedef dosya adı. Bir kitap birden fazla sınıfa ait olduğunda ilk sınıfının altında listelenir; diğer sınıflar parantez içinde yazılır.
 
@@ -99,7 +99,7 @@ Her satır: `[ ]` durum · kitap_id · kitap adı · PDF · hedef dosya adı. Bi
 
 - [x] `506` Arapça 5.Sınıf Ders Kitabı · [PDF](https://tymm.meb.gov.tr/assets/pdf/arapca-5sinif-ders-kitabi_20261003_173316_015.pdf) · `02-arapca-5sinif-ders-kitabi-506.md`
 - [x] `180` Beden Eğitimi Ve Spor Dersi Öğretmen Kılavuz Kitabı (5-8.Sınıf) (ayrıca: 6. Sınıf) · [PDF](https://meb.ai/UhkA03V) · `02-beden-egitimi-ve-spor-dersi-ogretmen-kilavuz-kitabi-5-8sinif-180.md`
-- [ ] `432` Bilişim Teknolojileri Ve Yazılım Dersi 5.Sınıf Öğretmen Kılavuz Kitabı · [PDF](https://tymm.meb.gov.tr/assets/pdf/bilisim-teknolojileri-ve-yazilim-dersi-5sinif-ogretmen-kilavuz-kitabi_20260930_175401_503.pdf) · `02-bilisim-teknolojileri-ve-yazilim-dersi-5sinif-ogretmen-kilavuz-kitabi-432.md`
+- [x] `432` Bilişim Teknolojileri Ve Yazılım Dersi 5.Sınıf Öğretmen Kılavuz Kitabı · [PDF](https://tymm.meb.gov.tr/assets/pdf/bilisim-teknolojileri-ve-yazilim-dersi-5sinif-ogretmen-kilavuz-kitabi_20260930_175401_503.pdf) · `02-bilisim-teknolojileri-ve-yazilim-dersi-5sinif-ogretmen-kilavuz-kitabi-432.md`
 - [ ] `18` Din Kültürü Ve Ahlak Bilgisi 5.Sınıf Ders Kitabı · [PDF](https://tymm.meb.gov.tr/assets/pdf/din-kulturu-ve-ahlak-bilgisi-5sinif-ders-kitabi_20261003_183932_159.pdf) · `02-din-kulturu-ve-ahlak-bilgisi-5sinif-ders-kitabi-18.md`
 - [ ] `19` Fen Bilimleri 5.Sınıf Ders Kitabı (1.Kitap) · [PDF](https://tymm.meb.gov.tr/assets/pdf/fen-bilimleri-5sinif-ders-kitabi-1kitap_20261021_210925_690.pdf) · `02-fen-bilimleri-5sinif-ders-kitabi-1kitap-19.md`
 - [ ] `20` Fen Bilimleri 5.Sınıf Ders Kitabı (2.Kitap) · [PDF](https://tymm.meb.gov.tr/assets/pdf/fen-bilimleri-5sinif-ders-kitabi-2kitap_20261021_211919_422.pdf) · `02-fen-bilimleri-5sinif-ders-kitabi-2kitap-20.md`

@@ -1,0 +1,29 @@
+{
+ "kitap_id": 432,
+ "baslik": "Bilişim Teknolojileri Ve Yazılım Dersi 5.Sınıf Öğretmen Kılavuz Kitabı",
+ "sayfa": "0-249",
+ "pdf_sayfa": 250,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 188.7,
+  "gemma": 1770.6,
+  "merge": 1.9,
+  "total": 1961.2
+ },
+ "sayfa_basi_sn": 7.8,
+ "birlestirme": {
+  "formul": 43,
+  "SEMBOL": 30,
+  "METINDE": 13,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 23
+ },
+ "gemma_formul": {
+  "total": 43,
+  "katex_ok": 43,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 0
+}
