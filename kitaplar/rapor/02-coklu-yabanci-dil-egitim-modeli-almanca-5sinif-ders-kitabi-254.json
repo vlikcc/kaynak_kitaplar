@@ -1,0 +1,39 @@
+{
+ "kitap_id": 254,
+ "baslik": "Çoklu Yabancı Dil Eğitim Modeli Almanca 5.Sınıf Ders Kitabı",
+ "sayfa": "0-131",
+ "pdf_sayfa": 132,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 166.3,
+  "gemma": 816.9,
+  "merge": 1.9,
+  "total": 985.2
+ },
+ "sayfa_basi_sn": 7.5,
+ "birlestirme": {
+  "formul": 163,
+  "SEMBOL": 116,
+  "DOGRULANAMADI": 31,
+  "METINDE": 16,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 28
+ },
+ "gemma_formul": {
+  "total": 163,
+  "katex_ok": 161,
+  "bad_examples": [
+   [
+    "\\text{\\small \\char\"279C \\char\"221A \\char\"2%% \\char\"3A \\char\"1D7D \\char\"3D 1+2=?}",
+    "KaTeX parse error: Unexpected end of input in a macro argument, expected '}' at end of input: …\\char\"3D 1+2=?}"
+   ],
+   [
+    "\\text{\\small \\char\"279C \\char\"221A \\char\"2%% \\char\"3A \\char\"1D7D \\char\"3D 1+2=?}",
+    "KaTeX parse error: Unexpected end of input in a macro argument, expected '}' at end of input: …\\char\"3D 1+2=?}"
+   ]
+  ]
+ },
+ "inceleme_bekleyen": 31
+}
