@@ -1,0 +1,29 @@
+{
+ "kitap_id": 506,
+ "baslik": "Arapça 5.Sınıf Ders Kitabı",
+ "sayfa": "0-233",
+ "pdf_sayfa": 234,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 908.1,
+  "gemma": 1393.5,
+  "merge": 1.8,
+  "total": 2303.6
+ },
+ "sayfa_basi_sn": 9.8,
+ "birlestirme": {
+  "formul": 110,
+  "SEMBOL": 69,
+  "DOGRULANAMADI": 41,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 30
+ },
+ "gemma_formul": {
+  "total": 110,
+  "katex_ok": 110,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 41
+}
