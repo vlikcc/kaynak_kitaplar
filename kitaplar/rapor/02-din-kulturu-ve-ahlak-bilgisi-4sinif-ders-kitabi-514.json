@@ -1,0 +1,29 @@
+{
+ "kitap_id": 514,
+ "baslik": "Din Kültürü Ve Ahlak Bilgisi 4.Sınıf Ders Kitabı",
+ "sayfa": "0-131",
+ "pdf_sayfa": 132,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 326.2,
+  "gemma": 1100.0,
+  "merge": 1.5,
+  "total": 1427.7
+ },
+ "sayfa_basi_sn": 10.8,
+ "birlestirme": {
+  "formul": 98,
+  "DOGRULANAMADI": 95,
+  "SEMBOL": 3,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 11
+ },
+ "gemma_formul": {
+  "total": 98,
+  "katex_ok": 98,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 95
+}
