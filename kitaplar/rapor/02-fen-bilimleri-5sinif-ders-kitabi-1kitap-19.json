@@ -1,0 +1,30 @@
+{
+ "kitap_id": 19,
+ "baslik": "Fen Bilimleri 5.Sınıf Ders Kitabı (1.Kitap)",
+ "sayfa": "0-151",
+ "pdf_sayfa": 152,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 267.3,
+  "gemma": 1031.5,
+  "merge": 1.1,
+  "total": 1299.9
+ },
+ "sayfa_basi_sn": 8.6,
+ "birlestirme": {
+  "formul": 110,
+  "METINDE": 53,
+  "DOGRULANAMADI": 17,
+  "SEMBOL": 40,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 33
+ },
+ "gemma_formul": {
+  "total": 110,
+  "katex_ok": 110,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 17
+}
