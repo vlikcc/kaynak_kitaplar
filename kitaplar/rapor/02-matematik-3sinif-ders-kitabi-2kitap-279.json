@@ -1,0 +1,89 @@
+{
+ "kitap_id": 279,
+ "baslik": "Matematik 3.Sınıf Ders Kitabı (2.Kitap)",
+ "sayfa": "0-176",
+ "pdf_sayfa": 177,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 348.6,
+  "gemma": 1078.1,
+  "merge": 1.3,
+  "total": 1428.1
+ },
+ "sayfa_basi_sn": 8.1,
+ "birlestirme": {
+  "formul": 845,
+  "METINDE": 301,
+  "DOGRULANAMADI": 252,
+  "SEMBOL": 246,
+  "UYUMLU": 39,
+  "CELISKI": 7,
+  "eksik_olabilir": 154,
+  "paragraf_isareti": 32
+ },
+ "gemma_formul": {
+  "total": 845,
+  "katex_ok": 831,
+  "bad_examples": [
+   [
+    "\\begin{array}{r@{\\quad}l}\n21 & \\longrightarrow \\text{Toplanan} \\\\\n+ 21 & \\longrightarrow \\text{Toplanan} \\\\\n\\hline\n42 & \\longrightarrow \\text{Toplam}\n\\end{array}",
+    "KaTeX parse error: Unknown column alignment: @ at position 16: \\begin{array}{r@̲{\\quad}l}\n21 & …"
+   ],
+   [
+    "\\begin{array}{r@{\\quad}l}\n21 & \\longrightarrow \\text{Çarpan} \\\\\n\\times \\phantom{0} 2 & \\longrightarrow \\text{Çarpan} \\\\\n\\hline\n42 & \\longrightarrow \\text{Çarpım}\n\\end{array}",
+    "KaTeX parse error: Unknown column alignment: @ at position 16: \\begin{array}{r@̲{\\quad}l}\n21 & …"
+   ],
+   [
+    "\\begin{array}{r@{\\quad}r@{\\quad}r@{\\quad}r}\n32 & 57 & 24 & 33 \\\\\n\\times 4 & \\times 3 & \\times 11 & \\times 27 \\\\\n\\hline\n\\end{array}",
+    "KaTeX parse error: Unknown column alignment: @ at position 16: \\begin{array}{r@̲{\\quad}r@{\\quad…"
+   ],
+   [
+    "\\begin{array}{r@{\\quad}l} 28 & \\\\ \\times \\phantom{0} 4 & \\\\ \\hline 112 & \\end{array}",
+    "KaTeX parse error: Unknown column alignment: @ at position 16: \\begin{array}{r@̲{\\quad}l} 28 & …"
+   ],
+   [
+    "\\begin{array}{r@{\\quad}l} 28 & \\\\ \\times \\phantom{0} 2 & = 56 \\\\ 56 \\times 2 & = 112 \\end{array}",
+    "KaTeX parse error: Unknown column alignment: @ at position 16: \\begin{array}{r@̲{\\quad}l} 28 & …"
+   ],
+   [
+    "\\begin{array}{r@{\\quad}l} 32 & \\\\ - \\dots & \\\\ \\hline \\dots & \\end{array}",
+    "KaTeX parse error: Unknown column alignment: @ at position 16: \\begin{array}{r@̲{\\quad}l} 32 & …"
+   ],
+   [
+    "\\begin{array}{r@{\\quad}l} 49 & \\\\ - \\dots & \\\\ \\hline \\dots & \\end{array}",
+    "KaTeX parse error: Unknown column alignment: @ at position 16: \\begin{array}{r@̲{\\quad}l} 49 & …"
+   ],
+   [
+    "\\begin{array}{r|l}\n12 & 4 \\\\\n\\cline{2-2}\n\\underline{12} & 3 \\\\\n00 &\n\\end{array}",
+    "KaTeX parse error: Undefined control sequence: \\cline at position 30: …r|l}\n12 & 4 \\\\\n\\̲c̲l̲i̲n̲e̲{2-2}\n\\underlin…"
+   ],
+   [
+    "\\begin{array}{r|l}\n38 & 7 \\\\\n\\cline{2-2}\n\\underline{35} & 5 \\\\\n03 &\n\\end{array}",
+    "KaTeX parse error: Undefined control sequence: \\cline at position 30: …r|l}\n38 & 7 \\\\\n\\̲c̲l̲i̲n̲e̲{2-2}\n\\underlin…"
+   ],
+   [
+    "\\begin{array}{r@{\\quad}l}\n293 & \\dots\\dots\\dots\\dots \\\\\n+\\ 185 & \\dots\\dots\\dots\\dots \\\\\n\\hline\n\\dots\\dots\\dots\\dots & \\dots\\dots\\dots\\dots\n\\end{array}\n\\quad\n\\begin{array}{r@{\\quad}l}\n425 & \\dots\\dots\\dots\\dots \\\\\n-\\ 243 & \\dots\\dots\\dots\\dots \\\\\n\\hline\n\\dots\\dots\\dots\\dots & \\dots\\dots\\dots\\dots\n\\end{array}",
+    "KaTeX parse error: Unknown column alignment: @ at position 16: \\begin{array}{r@̲{\\quad}l}\n293 &…"
+   ],
+   [
+    "\\begin{array}{r@{\\quad}l}\n43 & \\longrightarrow \\dots\\dots\\dots\\dots\\dots \\\\\n\\times 6 & \\longrightarrow \\dots\\dots\\dots\\dots\\dots \\\\\n\\hline\n\\dots & \\longrightarrow \\dots\\dots\\dots\\dots\\dots\n\\end{array}",
+    "KaTeX parse error: Unknown column alignment: @ at position 16: \\begin{array}{r@̲{\\quad}l}\n43 & …"
+   ],
+   [
+    "\\begin{array}{r@{\\quad}l}\n\\longleftarrow 76 & \\text{|} 8 \\\\\n\\text{---} & \\text{|} \\dots \\\\\n\\dots & \\text{|} \\dots\n\\end{array}",
+    "KaTeX parse error: Unknown column alignment: @ at position 16: \\begin{array}{r@̲{\\quad}l}\n\\long…"
+   ],
+   [
+    "\\begin{array}{r@{\\quad}l}\n27 & \\text{Tahminim: } \\dots\\dots\\dots\\dots\\dots \\\\\n\\times 6 & \\\\\n\\hline\n& \\text{Tahminim ile işlem sonucu arasındaki fark: } \\dots\\dots\\dots\\dots\\dots\n\\end{array}",
+    "KaTeX parse error: Unknown column alignment: @ at position 16: \\begin{array}{r@̲{\\quad}l}\n27 & …"
+   ],
+   [
+    "\\begin{array}{r@{\\quad}l}\n85 & \\text{Tahminim: } \\dots\\dots\\dots\\dots\\dots \\\\\n\\div 5 & \\\\\n\\hline\n& \\text{Tahminim ile işlem sonucu arasındaki fark: } \\dots\\dots\\dots\\dots\\dots\n\\end{array}",
+    "KaTeX parse error: Unknown column alignment: @ at position 16: \\begin{array}{r@̲{\\quad}l}\n85 & …"
+   ]
+  ]
+ },
+ "inceleme_bekleyen": 259
+}

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="118.4646" height="113.653888" viewBox="0 0 118.4646 113.653888">
+<defs>
+<path id="font_1_38" d="M.18299866 .33198548H.5799866V.4139862H.18299866V.6469879H.59498599V.72898867H.08999634V0H.61299136V.08198547H.18299866V.33198548Z"/>
+<path id="font_1_76" d="M.14099121 .72898867H.057998659V0H.14099121V.20399475L.22200012 .28399659 .39898683 0H.5019989L.28799439 .34298707 .46998597 .5239868H.36299134L.14099121 .3019867V.72898867Z"/>
+<path id="font_1_14" d="M.28399659 .31199647H.04598999V.23999024H.28399659V.31199647Z"/>
+<path id="font_1_21" d="M.32699586 .1749878V0H.4149933V.1749878H.519989V.2539978H.4149933V.72299197H.34999085L.027999878 .2679901V.1749878H.32699586M.32699586 .2539978H.10499573L.32699586 .57299807V.2539978Z"/>
+</defs>
+<path transform="matrix(1,0,0,-1,0,113.653888)" d="M112.50121 5.44379H37.51221L74.8782 80.43279 112.50121 5.44379" fill="#fffac2"/>
+<path transform="matrix(1,0,0,-1,0,113.653888)" stroke-width=".5" stroke-linecap="butt" stroke-dasharray="1.973,1.973" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#231f20" d="M39.2365 8.34308C50.82349 31.59808 62.4115 54.85308 73.9985 78.10709"/>
+<path transform="matrix(1,0,0,-1,0,113.653888)" stroke-width=".5" stroke-linecap="butt" stroke-dasharray="1.976,1.976" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#231f20" d="M76.2081 77.2243C87.87509 53.96931 99.54309 30.71431 111.2101 7.46031"/>
+<path transform="matrix(1,0,0,-1,0,113.653888)" stroke-width=".5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#231f20" d="M38.8923 5.69379H37.9163C38.06329 5.98779 38.2093 6.28279 38.35629 6.57678M74.4393 78.99078C74.5853 79.28479 74.7323 79.5788 74.8793 79.87379 75.02629 79.5788 75.1743 79.28479 75.3223 78.99078M111.65329 6.57678C111.80029 6.28279 111.9483 5.98779 112.0963 5.69379H111.1203"/>
+<use data-text="E" xlink:href="#font_1_38" transform="matrix(23.328,0,0,-23.328,4,24.736)"/>
+<use data-text="k" xlink:href="#font_1_76" transform="matrix(23.328,0,0,-23.328,19.559777,24.736)"/>
+<use data-text="-" xlink:href="#font_1_14" transform="matrix(23.328,0,0,-23.328,31.223776,24.736)"/>
+<use data-text="4" xlink:href="#font_1_21" transform="matrix(23.328,0,0,-23.328,38.992,24.736)"/>
+</svg>
