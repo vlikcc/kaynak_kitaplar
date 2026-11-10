@@ -1,0 +1,39 @@
+{
+ "kitap_id": 138,
+ "baslik": "Müzik 5.Sınıf Ders Kitabı",
+ "sayfa": "0-100",
+ "pdf_sayfa": 101,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 210.3,
+  "gemma": 663.0,
+  "merge": 1.7,
+  "total": 875.0
+ },
+ "sayfa_basi_sn": 8.7,
+ "birlestirme": {
+  "formul": 51,
+  "METINDE": 4,
+  "DOGRULANAMADI": 9,
+  "SEMBOL": 38,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 45
+ },
+ "gemma_formul": {
+  "total": 51,
+  "katex_ok": 49,
+  "bad_examples": [
+   [
+    "\\text{\\textmusicalnote} + \\text{\\textmusicalnote} = \\text{\\textmusicalnote}",
+    "KaTeX parse error: Undefined control sequence: \\textmusicalnote at position 7: \\text{\\̲t̲e̲x̲t̲m̲u̲s̲i̲c̲a̲l̲n̲o̲t̲e̲} + \\text{\\text…"
+   ],
+   [
+    "\\text{\\♩} = 116",
+    "KaTeX parse error: Undefined control sequence: \\♩ at position 7: \\text{\\̲♩̲} = 116"
+   ]
+  ]
+ },
+ "inceleme_bekleyen": 9
+}

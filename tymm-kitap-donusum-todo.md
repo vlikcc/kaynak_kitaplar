@@ -1,6 +1,6 @@
 # TYMM kitapları — Markdown'a dönüştürme listesi
 
-Kaynak: https://tymm.meb.gov.tr/Kitap/GetDersKitaplariList (324 kitap). Biten: **71/324**.
+Kaynak: https://tymm.meb.gov.tr/Kitap/GetDersKitaplariList (324 kitap). Biten: **72/324**.
 
 Her satır: `[ ]` durum · kitap_id · kitap adı · PDF · hedef dosya adı. Bir kitap birden fazla sınıfa ait olduğunda ilk sınıfının altında listelenir; diğer sınıflar parantez içinde yazılır.
 
@@ -110,7 +110,7 @@ Her satır: `[ ]` durum · kitap_id · kitap adı · PDF · hedef dosya adı. Bi
 - [x] `521` Kur'an-ı Kerim 5.Sınıf Ders Kitabı · [PDF](https://tymm.meb.gov.tr/assets/pdf/kuran-i-kerim-5sinif-ders-kitabi_20261003_191114_704.pdf) · `02-kuran-i-kerim-5sinif-ders-kitabi-521.md`
 - [x] `25` Matematik 5.Sınıf Ders Kitabı (1.Kitap) · [PDF](https://tymm.meb.gov.tr/assets/pdf/matematik-5sinif-ders-kitabi-1kitap_20261021_185311_419.pdf) · `02-matematik-5sinif-ders-kitabi-1kitap-25.md`
 - [x] `26` Matematik 5.Sınıf Ders Kitabı (2.Kitap) · [PDF](https://tymm.meb.gov.tr/assets/pdf/matematik-5sinif-ders-kitabi-2kitap_20261021_190950_342.pdf) · `02-matematik-5sinif-ders-kitabi-2kitap-26.md`
-- [ ] `138` Müzik 5.Sınıf Ders Kitabı · [PDF](https://meb.ai/X7ZvWY) · `02-muzik-5sinif-ders-kitabi-138.md`
+- [x] `138` Müzik 5.Sınıf Ders Kitabı · [PDF](https://meb.ai/X7ZvWY) · `02-muzik-5sinif-ders-kitabi-138.md`
 - [ ] `535` Peygamberimizin Hayatı 5.Sınıf Ders Kitabı · [PDF](https://tymm.meb.gov.tr/assets/pdf/peygamberimizin-hayati-5sinif-ders-kitabi_20261003_213845_403.pdf) · `02-peygamberimizin-hayati-5sinif-ders-kitabi-535.md`
 - [ ] `46` Sosyal Bilgiler 5.Sınıf Ders Kitabı (1.Kitap) · [PDF](https://meb.ai/UZTEDQC) · `02-sosyal-bilgiler-5sinif-ders-kitabi-1kitap-46.md`
 - [ ] `47` Sosyal Bilgiler 5.Sınıf Ders Kitabı (2.Kitap) · [PDF](https://meb.ai/5pBQD6) · `02-sosyal-bilgiler-5sinif-ders-kitabi-2kitap-47.md`
