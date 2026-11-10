@@ -1,0 +1,30 @@
+{
+ "kitap_id": 34,
+ "baslik": "Türkçe 5.Sınıf Ders Kitabı (2.Kitap)",
+ "sayfa": "0-159",
+ "pdf_sayfa": 160,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 607.2,
+  "gemma": 1171.4,
+  "merge": 4.8,
+  "total": 1783.5
+ },
+ "sayfa_basi_sn": 11.1,
+ "birlestirme": {
+  "formul": 140,
+  "DOGRULANAMADI": 29,
+  "SEMBOL": 92,
+  "METINDE": 19,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 26
+ },
+ "gemma_formul": {
+  "total": 140,
+  "katex_ok": 140,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 29
+}

@@ -1,6 +1,6 @@
 # TYMM kitapları — Markdown'a dönüştürme listesi
 
-Kaynak: https://tymm.meb.gov.tr/Kitap/GetDersKitaplariList (324 kitap). Biten: **76/324**.
+Kaynak: https://tymm.meb.gov.tr/Kitap/GetDersKitaplariList (324 kitap). Biten: **77/324**.
 
 Her satır: `[ ]` durum · kitap_id · kitap adı · PDF · hedef dosya adı. Bir kitap birden fazla sınıfa ait olduğunda ilk sınıfının altında listelenir; diğer sınıflar parantez içinde yazılır.
 
@@ -115,7 +115,7 @@ Her satır: `[ ]` durum · kitap_id · kitap adı · PDF · hedef dosya adı. Bi
 - [x] `46` Sosyal Bilgiler 5.Sınıf Ders Kitabı (1.Kitap) · [PDF](https://meb.ai/UZTEDQC) · `02-sosyal-bilgiler-5sinif-ders-kitabi-1kitap-46.md`
 - [x] `47` Sosyal Bilgiler 5.Sınıf Ders Kitabı (2.Kitap) · [PDF](https://meb.ai/5pBQD6) · `02-sosyal-bilgiler-5sinif-ders-kitabi-2kitap-47.md`
 - [x] `33` Türkçe 5.Sınıf Ders Kitabı (1.Kitap) · [PDF](https://tymm.meb.gov.tr/assets/pdf/turkce-5sinif-ders-kitabi-1kitap_20261022_081334_211.pdf) · `02-turkce-5sinif-ders-kitabi-1kitap-33.md`
-- [ ] `34` Türkçe 5.Sınıf Ders Kitabı (2.Kitap) · [PDF](https://tymm.meb.gov.tr/assets/pdf/turkce-5sinif-ders-kitabi-2kitap_20261021_221648_843.pdf) · `02-turkce-5sinif-ders-kitabi-2kitap-34.md`
+- [x] `34` Türkçe 5.Sınıf Ders Kitabı (2.Kitap) · [PDF](https://tymm.meb.gov.tr/assets/pdf/turkce-5sinif-ders-kitabi-2kitap_20261021_221648_843.pdf) · `02-turkce-5sinif-ders-kitabi-2kitap-34.md`
 - [ ] `254` Çoklu Yabancı Dil Eğitim Modeli Almanca 5.Sınıf Ders Kitabı · [PDF](https://meb.ai/D91BHc) · `02-coklu-yabanci-dil-egitim-modeli-almanca-5sinif-ders-kitabi-254.md`
 - [ ] `253` Çoklu Yabancı Dil Eğitim Modeli Almanca 5.Sınıf Çalışma Kitabı · [PDF](https://meb.ai/zmsPSu) · `02-coklu-yabanci-dil-egitim-modeli-almanca-5sinif-calisma-kitabi-253.md`
 - [ ] `256` Çoklu Yabancı Dil Eğitim Modeli Almanca 5.Sınıf Öğretmen Kılavuz Kitabı · [PDF](https://meb.ai/cYfuXL) · `02-coklu-yabanci-dil-egitim-modeli-almanca-5sinif-ogretmen-kilavuz-kitabi-256.md`
