@@ -1,0 +1,29 @@
+{
+ "kitap_id": 436,
+ "baslik": "Görsel Sanatlar Dersi 5.Sınıf Öğretmen Kılavuz Kitabı",
+ "sayfa": "0-138",
+ "pdf_sayfa": 139,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 200.5,
+  "gemma": 989.6,
+  "merge": 0.9,
+  "total": 1190.9
+ },
+ "sayfa_basi_sn": 8.6,
+ "birlestirme": {
+  "formul": 38,
+  "SEMBOL": 11,
+  "DOGRULANAMADI": 27,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 27
+ },
+ "gemma_formul": {
+  "total": 38,
+  "katex_ok": 38,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 27
+}
