@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="94" height="96" viewBox="0 0 94 96">
+<defs>
+<path id="font_1_18" d="M.25898744 .5149994V0H.34700013V.72299197H.2889862C.2579956 .6119995 .23799134 .5970001 .101989749 .57899478V.5149994H.25898744Z"/>
+<path id="font_1_21" d="M.32699586 .1749878V0H.4149933V.1749878H.519989V.2539978H.4149933V.72299197H.34999085L.027999878 .2679901V.1749878H.32699586M.32699586 .2539978H.10499573L.32699586 .57299807V.2539978Z"/>
+</defs>
+<path transform="matrix(1,0,0,-1,0,96)" d="M46.4971 90.35217V47.87317H4.5401C4.5401 71.33417 23.3251 90.35217 46.4971 90.35217" fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,96)" stroke-width=".75" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M46.4971 90.35217V47.87317H4.5401C4.5401 71.33417 23.3251 90.35217 46.4971 90.35217"/>
+<path transform="matrix(1,0,0,-1,0,96)" d="M88.4958 47.87369H46.5388V90.35269C69.7108 90.35269 88.4958 71.33368 88.4958 47.87369" fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,96)" stroke-width=".75" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M88.4958 47.87369H46.5388V90.35269C69.7108 90.35269 88.4958 71.33368 88.4958 47.87369"/>
+<path transform="matrix(1,0,0,-1,0,96)" d="M88.4958 47.83249C88.4958 24.3725 69.7108 5.35349 46.5388 5.35349V47.83249H88.4958" fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,96)" stroke-width=".75" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M88.4958 47.83249C88.4958 24.3725 69.7108 5.35349 46.5388 5.35349V47.83249H88.4958"/>
+<path transform="matrix(1,0,0,-1,0,96)" d="M46.4971 47.83249V5.35349C23.3251 5.35349 4.5401 24.3725 4.5401 47.83249H46.4971" fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,96)" stroke-width=".75" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M46.4971 47.83249V5.35349C23.3251 5.35349 4.5401 24.3725 4.5401 47.83249H46.4971"/>
+<use data-text="1" xlink:href="#font_1_18" transform="matrix(16.001999,0,0,-16.001999,32.014,32.194826)"/>
+<use data-text="4" xlink:href="#font_1_21" transform="matrix(16.001999,0,0,-16.001999,30.138,44.96283)"/>
+<use data-text="1" xlink:href="#font_1_18" transform="matrix(16.001999,0,0,-16.001999,32.014,63.375917)"/>
+<use data-text="4" xlink:href="#font_1_21" transform="matrix(16.001999,0,0,-16.001999,30.138,76.14392)"/>
+<use data-text="1" xlink:href="#font_1_18" transform="matrix(16.001999,0,0,-16.001999,57.809305,32.194826)"/>
+<use data-text="4" xlink:href="#font_1_21" transform="matrix(16.001999,0,0,-16.001999,55.933305,44.96283)"/>
+<use data-text="1" xlink:href="#font_1_18" transform="matrix(16.001999,0,0,-16.001999,57.809305,63.375917)"/>
+<use data-text="4" xlink:href="#font_1_21" transform="matrix(16.001999,0,0,-16.001999,55.933305,76.14392)"/>
+</svg>
