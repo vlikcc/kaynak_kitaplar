@@ -1,0 +1,30 @@
+{
+ "kitap_id": 33,
+ "baslik": "Türkçe 5.Sınıf Ders Kitabı (1.Kitap)",
+ "sayfa": "0-177",
+ "pdf_sayfa": 178,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 304.1,
+  "marker": 582.1,
+  "gemma": 1678.5,
+  "merge": 6.3,
+  "total": 2571.0
+ },
+ "sayfa_basi_sn": 14.4,
+ "birlestirme": {
+  "formul": 91,
+  "SEMBOL": 64,
+  "METINDE": 13,
+  "DOGRULANAMADI": 14,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 35
+ },
+ "gemma_formul": {
+  "total": 91,
+  "katex_ok": 91,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 14
+}
