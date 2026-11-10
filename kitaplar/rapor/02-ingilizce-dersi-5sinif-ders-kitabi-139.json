@@ -1,0 +1,30 @@
+{
+ "kitap_id": 139,
+ "baslik": "İngilizce Dersi 5.Sınıf Ders Kitabı",
+ "sayfa": "0-174",
+ "pdf_sayfa": 175,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 626.7,
+  "gemma": 1188.0,
+  "merge": 6.8,
+  "total": 1821.5
+ },
+ "sayfa_basi_sn": 10.4,
+ "birlestirme": {
+  "formul": 106,
+  "SEMBOL": 96,
+  "DOGRULANAMADI": 1,
+  "METINDE": 9,
+  "eksik_olabilir": 1,
+  "paragraf_isareti": 80
+ },
+ "gemma_formul": {
+  "total": 106,
+  "katex_ok": 106,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 1
+}
