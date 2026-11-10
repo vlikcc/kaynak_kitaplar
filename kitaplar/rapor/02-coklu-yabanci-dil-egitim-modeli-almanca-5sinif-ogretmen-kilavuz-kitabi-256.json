@@ -1,0 +1,30 @@
+{
+ "kitap_id": 256,
+ "baslik": "Çoklu Yabancı Dil Eğitim Modeli Almanca 5.Sınıf Öğretmen Kılavuz Kitabı",
+ "sayfa": "0-114",
+ "pdf_sayfa": 115,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 154.4,
+  "gemma": 1044.9,
+  "merge": 1.0,
+  "total": 1200.4
+ },
+ "sayfa_basi_sn": 10.4,
+ "birlestirme": {
+  "formul": 100,
+  "SEMBOL": 44,
+  "DOGRULANAMADI": 8,
+  "METINDE": 48,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 36
+ },
+ "gemma_formul": {
+  "total": 100,
+  "katex_ok": 100,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 8
+}
