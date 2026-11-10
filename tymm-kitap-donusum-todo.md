@@ -1,6 +1,6 @@
 # TYMM kitapları — Markdown'a dönüştürme listesi
 
-Kaynak: https://tymm.meb.gov.tr/Kitap/GetDersKitaplariList (324 kitap). Biten: **63/324**.
+Kaynak: https://tymm.meb.gov.tr/Kitap/GetDersKitaplariList (324 kitap). Biten: **64/324**.
 
 Her satır: `[ ]` durum · kitap_id · kitap adı · PDF · hedef dosya adı. Bir kitap birden fazla sınıfa ait olduğunda ilk sınıfının altında listelenir; diğer sınıflar parantez içinde yazılır.
 
@@ -102,7 +102,7 @@ Her satır: `[ ]` durum · kitap_id · kitap adı · PDF · hedef dosya adı. Bi
 - [x] `432` Bilişim Teknolojileri Ve Yazılım Dersi 5.Sınıf Öğretmen Kılavuz Kitabı · [PDF](https://tymm.meb.gov.tr/assets/pdf/bilisim-teknolojileri-ve-yazilim-dersi-5sinif-ogretmen-kilavuz-kitabi_20260930_175401_503.pdf) · `02-bilisim-teknolojileri-ve-yazilim-dersi-5sinif-ogretmen-kilavuz-kitabi-432.md`
 - [x] `18` Din Kültürü Ve Ahlak Bilgisi 5.Sınıf Ders Kitabı · [PDF](https://tymm.meb.gov.tr/assets/pdf/din-kulturu-ve-ahlak-bilgisi-5sinif-ders-kitabi_20261003_183932_159.pdf) · `02-din-kulturu-ve-ahlak-bilgisi-5sinif-ders-kitabi-18.md`
 - [x] `19` Fen Bilimleri 5.Sınıf Ders Kitabı (1.Kitap) · [PDF](https://tymm.meb.gov.tr/assets/pdf/fen-bilimleri-5sinif-ders-kitabi-1kitap_20261021_210925_690.pdf) · `02-fen-bilimleri-5sinif-ders-kitabi-1kitap-19.md`
-- [ ] `20` Fen Bilimleri 5.Sınıf Ders Kitabı (2.Kitap) · [PDF](https://tymm.meb.gov.tr/assets/pdf/fen-bilimleri-5sinif-ders-kitabi-2kitap_20261021_211919_422.pdf) · `02-fen-bilimleri-5sinif-ders-kitabi-2kitap-20.md`
+- [x] `20` Fen Bilimleri 5.Sınıf Ders Kitabı (2.Kitap) · [PDF](https://tymm.meb.gov.tr/assets/pdf/fen-bilimleri-5sinif-ders-kitabi-2kitap_20261021_211919_422.pdf) · `02-fen-bilimleri-5sinif-ders-kitabi-2kitap-20.md`
 - [ ] `436` Görsel Sanatlar Dersi 5.Sınıf Öğretmen Kılavuz Kitabı · [PDF](https://tymm.meb.gov.tr/assets/pdf/gorsel-sanatlar-5-sinif-ogretmen-kilavuz-kitabi_20260930_113624_715.pdf) · `02-gorsel-sanatlar-dersi-5sinif-ogretmen-kilavuz-kitabi-436.md`
 - [ ] `139` İngilizce Dersi 5.Sınıf Ders Kitabı · [PDF](https://meb.ai/Uo2KUKY) · `02-ingilizce-dersi-5sinif-ders-kitabi-139.md`
 - [ ] `140` İngilizce Dersi 5.Sınıf Çalışma Kitabı · [PDF](https://meb.ai/UZ2Ksse) · `02-ingilizce-dersi-5sinif-calisma-kitabi-140.md`
