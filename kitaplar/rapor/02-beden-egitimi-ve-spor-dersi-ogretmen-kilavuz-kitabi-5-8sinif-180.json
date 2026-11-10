@@ -1,0 +1,30 @@
+{
+ "kitap_id": 180,
+ "baslik": "Beden Eğitimi Ve Spor Dersi Öğretmen Kılavuz Kitabı (5-8.Sınıf)",
+ "sayfa": "0-448",
+ "pdf_sayfa": 449,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 345.3,
+  "gemma": 4098.5,
+  "merge": 4.2,
+  "total": 4448.1
+ },
+ "sayfa_basi_sn": 9.9,
+ "birlestirme": {
+  "formul": 223,
+  "SEMBOL": 15,
+  "DOGRULANAMADI": 93,
+  "METINDE": 115,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 74
+ },
+ "gemma_formul": {
+  "total": 223,
+  "katex_ok": 223,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 93
+}
