@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="244" height="320.5236" viewBox="0 0 244 320.5236">
+<defs>
+<path id="font_1_45" d="M.17298889 .72898867H.07998657V0H.5329895V.08198547H.17298889V.72898867Z"/>
+<path id="font_1_42" d="M.19400025 .72898867H.099990848V0H.19400025V.72898867Z"/>
+<path id="font_1_39" d="M.18299866 .33198548H.5309906V.4139862H.18299866V.6469879H.57899478V.72898867H.08999634V0H.18299866V.33198548Z"/>
+<path id="font_1_38" d="M.18299866 .33198548H.5799866V.4139862H.18299866V.6469879H.59498599V.72898867H.08999634V0H.61299136V.08198547H.18299866V.33198548Z"/>
+</defs>
+<path transform="matrix(1,0,0,-1,0,320.5236)" d="M5.37799 315.612H239.75598V330H5.37799Z" fill="#264d9b"/>
+<path transform="matrix(1,0,0,-1,0,320.5236)" d="M5.37799 302.112H239.75598V316.5H5.37799Z" fill="#264d9b"/>
+<path transform="matrix(1,0,0,-1,0,320.5236)" d="M5.37799 261.612H239.75598V289.5H5.37799Z" fill="#d5d7ec"/>
+<path transform="matrix(1,0,0,-1,0,320.5236)" d="M5.37799 234.612H239.75598V262.5H5.37799Z" fill="#d5d7ec"/>
+<path transform="matrix(1,0,0,-1,0,320.5236)" d="M5.37799 207.612H239.75598V235.5H5.37799Z" fill="#d5d7ec"/>
+<path transform="matrix(1,0,0,-1,0,320.5236)" d="M5.37799 180.612H239.75598V208.5H5.37799Z" fill="#d5d7ec"/>
+<path transform="matrix(1,0,0,-1,0,320.5236)" d="M5.37799 167.112H239.75598V181.5H5.37799Z" fill="#d5d7ec"/>
+<path transform="matrix(1,0,0,-1,0,320.5236)" d="M5.37799 140.112H239.75598V168H5.37799Z" fill="#d5d7ec"/>
+<path transform="matrix(1,0,0,-1,0,320.5236)" d="M5.37799 113.112H239.75598V141H5.37799Z" fill="#d5d7ec"/>
+<path transform="matrix(1,0,0,-1,0,320.5236)" d="M5.37799 99.612H239.75598V114H5.37799Z" fill="#d5d7ec"/>
+<path transform="matrix(1,0,0,-1,0,320.5236)" d="M5.37799 86.112H239.75598V100.5H5.37799Z" fill="#d5d7ec"/>
+<path transform="matrix(1,0,0,-1,0,320.5236)" d="M5.37799 59.112H239.75598V87H5.37799Z" fill="#d5d7ec"/>
+<path transform="matrix(1,0,0,-1,0,320.5236)" d="M5.37799 32.112H239.75598V60H5.37799Z" fill="#d5d7ec"/>
+<path transform="matrix(1,0,0,-1,0,320.5236)" d="M5.37799 5.112H239.75598V33H5.37799Z" fill="#d5d7ec"/>
+<use data-text="L" xlink:href="#font_1_45" transform="matrix(13.327185,0,0,-13.327185,140.64203,15.8463749)"/>
+<use data-text="I" xlink:href="#font_1_42" transform="matrix(13.327185,0,0,-13.327185,148.05194,15.8463749)"/>
+<use data-text="F" xlink:href="#font_1_39" transform="matrix(13.327185,0,0,-13.327185,151.7569,15.8463749)"/>
+<use data-text="E" xlink:href="#font_1_38" transform="matrix(13.327185,0,0,-13.327185,159.89981,15.8463749)"/>
+</svg>

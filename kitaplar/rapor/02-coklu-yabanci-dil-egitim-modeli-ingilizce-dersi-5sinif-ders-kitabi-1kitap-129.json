@@ -1,0 +1,30 @@
+{
+ "kitap_id": 129,
+ "baslik": "Çoklu Yabancı Dil Eğitim Modeli İngilizce Dersi 5.Sınıf Ders Kitabı (1.Kitap)",
+ "sayfa": "0-204",
+ "pdf_sayfa": 205,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 659.0,
+  "gemma": 1421.3,
+  "merge": 6.9,
+  "total": 2087.2
+ },
+ "sayfa_basi_sn": 10.2,
+ "birlestirme": {
+  "formul": 176,
+  "SEMBOL": 143,
+  "DOGRULANAMADI": 27,
+  "METINDE": 6,
+  "eksik_olabilir": 10,
+  "paragraf_isareti": 50
+ },
+ "gemma_formul": {
+  "total": 176,
+  "katex_ok": 176,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 27
+}
