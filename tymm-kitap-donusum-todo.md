@@ -1,6 +1,6 @@
 # TYMM kitapları — Markdown'a dönüştürme listesi
 
-Kaynak: https://tymm.meb.gov.tr/Kitap/GetDersKitaplariList (324 kitap). Biten: **66/324**.
+Kaynak: https://tymm.meb.gov.tr/Kitap/GetDersKitaplariList (324 kitap). Biten: **67/324**.
 
 Her satır: `[ ]` durum · kitap_id · kitap adı · PDF · hedef dosya adı. Bir kitap birden fazla sınıfa ait olduğunda ilk sınıfının altında listelenir; diğer sınıflar parantez içinde yazılır.
 
@@ -105,7 +105,7 @@ Her satır: `[ ]` durum · kitap_id · kitap adı · PDF · hedef dosya adı. Bi
 - [x] `20` Fen Bilimleri 5.Sınıf Ders Kitabı (2.Kitap) · [PDF](https://tymm.meb.gov.tr/assets/pdf/fen-bilimleri-5sinif-ders-kitabi-2kitap_20261021_211919_422.pdf) · `02-fen-bilimleri-5sinif-ders-kitabi-2kitap-20.md`
 - [x] `436` Görsel Sanatlar Dersi 5.Sınıf Öğretmen Kılavuz Kitabı · [PDF](https://tymm.meb.gov.tr/assets/pdf/gorsel-sanatlar-5-sinif-ogretmen-kilavuz-kitabi_20260930_113624_715.pdf) · `02-gorsel-sanatlar-dersi-5sinif-ogretmen-kilavuz-kitabi-436.md`
 - [x] `139` İngilizce Dersi 5.Sınıf Ders Kitabı · [PDF](https://meb.ai/Uo2KUKY) · `02-ingilizce-dersi-5sinif-ders-kitabi-139.md`
-- [ ] `140` İngilizce Dersi 5.Sınıf Çalışma Kitabı · [PDF](https://meb.ai/UZ2Ksse) · `02-ingilizce-dersi-5sinif-calisma-kitabi-140.md`
+- [x] `140` İngilizce Dersi 5.Sınıf Çalışma Kitabı · [PDF](https://meb.ai/UZ2Ksse) · `02-ingilizce-dersi-5sinif-calisma-kitabi-140.md`
 - [ ] `217` İngilizce Dersi 5.Sınıf Öğretmen Kılavuz Kitabı · [PDF](https://meb.ai/U5Tll8B) · `02-ingilizce-dersi-5sinif-ogretmen-kilavuz-kitabi-217.md`
 - [ ] `521` Kur'an-ı Kerim 5.Sınıf Ders Kitabı · [PDF](https://tymm.meb.gov.tr/assets/pdf/kuran-i-kerim-5sinif-ders-kitabi_20261003_191114_704.pdf) · `02-kuran-i-kerim-5sinif-ders-kitabi-521.md`
 - [ ] `25` Matematik 5.Sınıf Ders Kitabı (1.Kitap) · [PDF](https://tymm.meb.gov.tr/assets/pdf/matematik-5sinif-ders-kitabi-1kitap_20261021_185311_419.pdf) · `02-matematik-5sinif-ders-kitabi-1kitap-25.md`
