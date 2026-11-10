@@ -1,0 +1,29 @@
+{
+ "kitap_id": 505,
+ "baslik": "Arapça 4.Sınıf Ders Kitabı",
+ "sayfa": "0-195",
+ "pdf_sayfa": 196,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 439.0,
+  "gemma": 967.6,
+  "merge": 1.7,
+  "total": 1408.3
+ },
+ "sayfa_basi_sn": 7.2,
+ "birlestirme": {
+  "formul": 131,
+  "SEMBOL": 111,
+  "DOGRULANAMADI": 20,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 18
+ },
+ "gemma_formul": {
+  "total": 131,
+  "katex_ok": 131,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 20
+}

@@ -1,6 +1,6 @@
 # TYMM kitapları — Markdown'a dönüştürme listesi
 
-Kaynak: https://tymm.meb.gov.tr/Kitap/GetDersKitaplariList (324 kitap). Biten: **56/324**.
+Kaynak: https://tymm.meb.gov.tr/Kitap/GetDersKitaplariList (324 kitap). Biten: **57/324**.
 
 Her satır: `[ ]` durum · kitap_id · kitap adı · PDF · hedef dosya adı. Bir kitap birden fazla sınıfa ait olduğunda ilk sınıfının altında listelenir; diğer sınıflar parantez içinde yazılır.
 
@@ -92,7 +92,7 @@ Her satır: `[ ]` durum · kitap_id · kitap adı · PDF · hedef dosya adı. Bi
 
 ### 4. Sınıf (2)
 
-- [ ] `505` Arapça 4.Sınıf Ders Kitabı · [PDF](https://tymm.meb.gov.tr/assets/pdf/arapca-4sinif-ders-kitabi_20261003_160240_518.pdf) · `02-arapca-4sinif-ders-kitabi-505.md`
+- [x] `505` Arapça 4.Sınıf Ders Kitabı · [PDF](https://tymm.meb.gov.tr/assets/pdf/arapca-4sinif-ders-kitabi_20261003_160240_518.pdf) · `02-arapca-4sinif-ders-kitabi-505.md`
 - [ ] `514` Din Kültürü Ve Ahlak Bilgisi 4.Sınıf Ders Kitabı · [PDF](https://tymm.meb.gov.tr/assets/pdf/din-kulturu-ve-ahlak-bilgisi-4sinif-ders-kitabi_20261003_183741_260.pdf) · `02-din-kulturu-ve-ahlak-bilgisi-4sinif-ders-kitabi-514.md`
 
 ### 5. Sınıf (28)
