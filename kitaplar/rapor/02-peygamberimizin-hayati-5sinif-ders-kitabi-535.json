@@ -1,0 +1,29 @@
+{
+ "kitap_id": 535,
+ "baslik": "Peygamberimizin Hayatı 5.Sınıf Ders Kitabı",
+ "sayfa": "0-142",
+ "pdf_sayfa": 143,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 312.7,
+  "gemma": 1260.1,
+  "merge": 6.8,
+  "total": 1579.7
+ },
+ "sayfa_basi_sn": 11.0,
+ "birlestirme": {
+  "formul": 281,
+  "SEMBOL": 65,
+  "DOGRULANAMADI": 216,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 12
+ },
+ "gemma_formul": {
+  "total": 281,
+  "katex_ok": 281,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 216
+}
