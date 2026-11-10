@@ -1,0 +1,37 @@
+{
+ "kitap_id": 26,
+ "baslik": "Matematik 5.Sınıf Ders Kitabı (2.Kitap)",
+ "sayfa": "0-188",
+ "pdf_sayfa": 189,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 307.0,
+  "gemma": 1396.1,
+  "merge": 4.9,
+  "total": 1708.1
+ },
+ "sayfa_basi_sn": 9.0,
+ "birlestirme": {
+  "formul": 991,
+  "SEMBOL": 149,
+  "DOGRULANAMADI": 332,
+  "UYUMLU": 106,
+  "CELISKI": 12,
+  "METINDE": 392,
+  "eksik_olabilir": 4,
+  "paragraf_isareti": 36
+ },
+ "gemma_formul": {
+  "total": 991,
+  "katex_ok": 990,
+  "bad_examples": [
+   [
+    "\\begin{array}{r@{\\quad}l}\n  49 \\\\\n\\times 12 \\\\\n\\hline\n  98 \\\\\n+ 490 \\\\\n\\hline\n588\n\\end{array}",
+    "KaTeX parse error: Unknown column alignment: @ at position 16: \\begin{array}{r@̲{\\quad}l}\n  49 …"
+   ]
+  ]
+ },
+ "inceleme_bekleyen": 344
+}

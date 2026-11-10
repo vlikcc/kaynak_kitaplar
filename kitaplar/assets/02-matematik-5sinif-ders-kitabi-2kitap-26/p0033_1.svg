@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="176.3071" height="135.45111" viewBox="0 0 176.3071 135.45111">
+<defs>
+<path id="font_1_18" d="M.25898744 .5149994V0H.34700013V.72299197H.2889862C.2579956 .6119995 .23799134 .5970001 .101989749 .57899478V.5149994H.25898744Z"/>
+<path id="font_1_10" d="M.09298706-.21200562C.19299317-.08100891 .2559967 .100997928 .2559967 .2579956 .2559967 .41600038 .19299317 .59799197 .09298706 .72898867H.037994386C.12599182 .58599856 .1749878 .41799928 .1749878 .2579956 .1749878 .09899902 .12599182-.070007327 .037994386-.21200562H.09298706Z"/>
+</defs>
+<path transform="matrix(1,0,0,-1,0,135.45111)" d="M5.6223 89.13287 47.0403 124.02988 47.2443 40.54288 5.7233 5.95587 5.6223 89.13287" fill="#fcfcfc" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,135.45111)" stroke-width=".106" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#6c8bc7" d="M5.6223 89.13287 47.0403 124.02988 47.2443 40.54288 5.7233 5.95587 5.6223 89.13287"/>
+<path transform="matrix(1,0,0,-1,0,135.45111)" stroke-width=".106" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#6c8bc7" d="M47.03979 40.79456H171.89279V124.02956H47.03979Z"/>
+<path transform="matrix(1,0,0,-1,0,135.45111)" d="M5.4222 89.203 47.0402 124.03 47.0022 40.60699 5.5232 6.026 5.4222 89.203" fill="#fcfcfc" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,135.45111)" stroke-width=".106" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#6c8bc7" d="M5.4222 89.203 47.0402 124.03 47.0022 40.60699 5.5232 6.026 5.4222 89.203"/>
+<path transform="matrix(1,0,0,-1,0,135.45111)" d="M47.0397 47.73108 5.5227 13.17308H130.3757L171.8927 47.73108H47.0397" fill="#fcfcfc"/>
+<path transform="matrix(1,0,0,-1,0,135.45111)" stroke-width=".106" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#efc183" d="M5.4222 6.11328H130.3762V13.17328H5.4222Z"/>
+<path transform="matrix(1,0,0,-1,0,135.45111)" d="M130.2024 13.18011 130.20139 6.15712 171.8734 40.77211 171.8234 47.71411 130.2024 13.18011" fill="#fcfcfc"/>
+<path transform="matrix(1,0,0,-1,0,135.45111)" stroke-width=".106" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#efc183" d="M130.2018 6.1571 171.8738 40.77211 171.82379 47.71411 130.2028 13.1801 130.2018 6.1571"/>
+<path transform="matrix(1,0,0,-1,0,135.45111)" stroke-width=".106" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#6c8bc7" d="M5.4222 6.11328H130.27519V89.34828H5.4222Z"/>
+<path transform="matrix(1,0,0,-1,0,135.45111)" d="M130.269 89.3446 171.887 123.9606 171.89099 40.75461 130.37 6.1676 130.269 89.3446" fill="#fcfcfc" fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,135.45111)" stroke-width=".106" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#6c8bc7" d="M130.269 89.3446 171.887 123.9606 171.89099 40.75461 130.37 6.1676 130.269 89.3446"/>
+<path transform="matrix(1,0,0,-1,0,135.45111)" d="M64.21609 6.31598H84.54109V89.19898H64.21609Z" fill="#d1d3d4"/>
+<path transform="matrix(1,0,0,-1,0,135.45111)" stroke-width=".243" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M64.21609 6.31598H84.54109V89.19898H64.21609Z"/>
+<path transform="matrix(1,0,0,-1,0,135.45111)" d="M146.07469 102.3548 146.44069 19.61279 157.72269 29.0228 157.92169 112.2498 146.07469 102.3548" fill="#d1d3d4"/>
+<path transform="matrix(1,0,0,-1,0,135.45111)" stroke-width=".243" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M146.07469 102.3548 146.44069 19.61279 157.72269 29.0228 157.92169 112.2498 146.07469 102.3548"/>
+<use data-text="1" xlink:href="#font_1_18" transform="matrix(13.513499,0,0,-13.513499,4,16.012001)"/>
+<use data-text=")" xlink:href="#font_1_10" transform="matrix(13.513499,0,0,-13.513499,11.513506,16.012001)"/>
+</svg>
