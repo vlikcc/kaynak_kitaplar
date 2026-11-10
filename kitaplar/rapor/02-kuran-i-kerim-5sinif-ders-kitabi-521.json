@@ -1,0 +1,91 @@
+{
+ "kitap_id": 521,
+ "baslik": "Kur'an-ı Kerim 5.Sınıf Ders Kitabı",
+ "sayfa": "0-172",
+ "pdf_sayfa": 173,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 844.2,
+  "gemma": 1342.5,
+  "merge": 1.6,
+  "total": 2188.4
+ },
+ "sayfa_basi_sn": 12.6,
+ "birlestirme": {
+  "formul": 636,
+  "SEMBOL": 483,
+  "DOGRULANAMADI": 152,
+  "UYUMLU": 1,
+  "eksik_olabilir": 17,
+  "paragraf_isareti": 25
+ },
+ "gemma_formul": {
+  "total": 636,
+  "katex_ok": 620,
+  "bad_examples": [
+   [
+    "\\text{\\textcircled{\\tiny\\textbullet}}",
+    "KaTeX parse error: Undefined control sequence: \\textbullet at position 25: …xtcircled{\\tiny\\̲t̲e̲x̲t̲b̲u̲l̲l̲e̲t̲}}"
+   ],
+   [
+    "\\text{\\textcircled{\\tiny\\textbullet}}",
+    "KaTeX parse error: Undefined control sequence: \\textbullet at position 25: …xtcircled{\\tiny\\̲t̲e̲x̲t̲b̲u̲l̲l̲e̲t̲}}"
+   ],
+   [
+    "\\text{\\textcircled{\\tiny\\textbullet}}",
+    "KaTeX parse error: Undefined control sequence: \\textbullet at position 25: …xtcircled{\\tiny\\̲t̲e̲x̲t̲b̲u̲l̲l̲e̲t̲}}"
+   ],
+   [
+    "\\text{\\textcircled{\\tiny\\textbullet}}",
+    "KaTeX parse error: Undefined control sequence: \\textbullet at position 25: …xtcircled{\\tiny\\̲t̲e̲x̲t̲b̲u̲l̲l̲e̲t̲}}"
+   ],
+   [
+    "\\text{\\textcircled{\\tiny\\textbullet}}",
+    "KaTeX parse error: Undefined control sequence: \\textbullet at position 25: …xtcircled{\\tiny\\̲t̲e̲x̲t̲b̲u̲l̲l̲e̲t̲}}"
+   ],
+   [
+    "\\text{\\textcircled{\\tiny\\textbullet}}",
+    "KaTeX parse error: Undefined control sequence: \\textbullet at position 25: …xtcircled{\\tiny\\̲t̲e̲x̲t̲b̲u̲l̲l̲e̲t̲}}"
+   ],
+   [
+    "\\text{\\textcircled{\\tiny\\textbullet}}",
+    "KaTeX parse error: Undefined control sequence: \\textbullet at position 25: …xtcircled{\\tiny\\̲t̲e̲x̲t̲b̲u̲l̲l̲e̲t̲}}"
+   ],
+   [
+    "\\text{\\textcircled{\\tiny\\textbullet}}",
+    "KaTeX parse error: Undefined control sequence: \\textbullet at position 25: …xtcircled{\\tiny\\̲t̲e̲x̲t̲b̲u̲l̲l̲e̲t̲}}"
+   ],
+   [
+    "\\text{\\textcircled{\\tiny\\textbullet}}",
+    "KaTeX parse error: Undefined control sequence: \\textbullet at position 25: …xtcircled{\\tiny\\̲t̲e̲x̲t̲b̲u̲l̲l̲e̲t̲}}"
+   ],
+   [
+    "\\text{\\textit{\\textarabic{ذ}}}, \\text{\\textit{\\textarabic{ث}}}",
+    "KaTeX parse error: Undefined control sequence: \\textarabic at position 15: \\text{\\textit{\\̲t̲e̲x̲t̲a̲r̲a̲b̲i̲c̲{ذ}}}, \\text{\\t…"
+   ],
+   [
+    "\\text{\\textit{\\textarabic{ظ}}}",
+    "KaTeX parse error: Undefined control sequence: \\textarabic at position 15: \\text{\\textit{\\̲t̲e̲x̲t̲a̲r̲a̲b̲i̲c̲{ظ}}}"
+   ],
+   [
+    "\\text{\\textit{\\textarabic{ا}}}, \\text{\\textit{\\textarabic{ح}}}, \\text{\\textit{\\textarabic{ع}}}, \\text{\\textit{\\textarabic{ه}}}",
+    "KaTeX parse error: Undefined control sequence: \\textarabic at position 15: \\text{\\textit{\\̲t̲e̲x̲t̲a̲r̲a̲b̲i̲c̲{ا}}}, \\text{\\t…"
+   ],
+   [
+    "\\text{\\textit{\\textarabic{غ}}}, \\text{\\textit{\\textarabic{خ}}}",
+    "KaTeX parse error: Undefined control sequence: \\textarabic at position 15: \\text{\\textit{\\̲t̲e̲x̲t̲a̲r̲a̲b̲i̲c̲{غ}}}, \\text{\\t…"
+   ],
+   [
+    "\\text{\\textit{\\textarabic{ر}}}",
+    "KaTeX parse error: Undefined control sequence: \\textarabic at position 15: \\text{\\textit{\\̲t̲e̲x̲t̲a̲r̲a̲b̲i̲c̲{ر}}}"
+   ],
+   [
+    "\\text{\\textvisiblespace}",
+    "KaTeX parse error: Undefined control sequence: \\textvisiblespace at position 7: \\text{\\̲t̲e̲x̲t̲v̲i̲s̲i̲b̲l̲e̲s̲p̲a̲c̲e̲}"
+   ]
+  ]
+ },
+ "inceleme_bekleyen": 152
+}
