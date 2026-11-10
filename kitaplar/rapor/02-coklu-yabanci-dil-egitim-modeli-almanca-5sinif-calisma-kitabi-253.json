@@ -1,0 +1,38 @@
+{
+ "kitap_id": 253,
+ "baslik": "Çoklu Yabancı Dil Eğitim Modeli Almanca 5.Sınıf Çalışma Kitabı",
+ "sayfa": "0-70",
+ "pdf_sayfa": 71,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 99.6,
+  "gemma": 379.5,
+  "merge": 0.8,
+  "total": 479.9
+ },
+ "sayfa_basi_sn": 6.8,
+ "birlestirme": {
+  "formul": 61,
+  "SEMBOL": 60,
+  "DOGRULANAMADI": 1,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 26
+ },
+ "gemma_formul": {
+  "total": 61,
+  "katex_ok": 59,
+  "bad_examples": [
+   [
+    "\\text{\\rlap{",
+    "KaTeX parse error: Unexpected end of input in a macro argument, expected '}' at end of input: \\text{\\rlap{"
+   ],
+   [
+    "}}\\square",
+    "KaTeX parse error: Expected 'EOF', got '}' at position 1: }̲}\\square"
+   ]
+  ]
+ },
+ "inceleme_bekleyen": 1
+}
