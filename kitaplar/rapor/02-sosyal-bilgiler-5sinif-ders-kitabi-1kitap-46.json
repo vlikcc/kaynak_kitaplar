@@ -1,0 +1,35 @@
+{
+ "kitap_id": 46,
+ "baslik": "Sosyal Bilgiler 5.Sınıf Ders Kitabı (1.Kitap)",
+ "sayfa": "0-153",
+ "pdf_sayfa": 154,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 430.1,
+  "gemma": 1201.4,
+  "merge": 2.3,
+  "total": 1633.9
+ },
+ "sayfa_basi_sn": 10.6,
+ "birlestirme": {
+  "formul": 68,
+  "DOGRULANAMADI": 39,
+  "SEMBOL": 19,
+  "METINDE": 10,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 31
+ },
+ "gemma_formul": {
+  "total": 68,
+  "katex_ok": 67,
+  "bad_examples": [
+   [
+    "\\text{\\small\\faUsers}",
+    "KaTeX parse error: Undefined control sequence: \\faUsers at position 13: \\text{\\small\\̲f̲a̲U̲s̲e̲r̲s̲}"
+   ]
+  ]
+ },
+ "inceleme_bekleyen": 39
+}
