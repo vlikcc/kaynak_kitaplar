@@ -1,0 +1,30 @@
+{
+ "kitap_id": 18,
+ "baslik": "Din Kültürü Ve Ahlak Bilgisi 5.Sınıf Ders Kitabı",
+ "sayfa": "0-197",
+ "pdf_sayfa": 198,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.1,
+  "marker": 244.1,
+  "gemma": 1581.7,
+  "merge": 1.9,
+  "total": 1827.8
+ },
+ "sayfa_basi_sn": 9.2,
+ "birlestirme": {
+  "formul": 214,
+  "DOGRULANAMADI": 160,
+  "SEMBOL": 53,
+  "METINDE": 1,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 15
+ },
+ "gemma_formul": {
+  "total": 214,
+  "katex_ok": 214,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 160
+}
