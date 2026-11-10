@@ -1,0 +1,30 @@
+{
+ "kitap_id": 285,
+ "baslik": "Türkçe 3.Sınıf Ders Kitabı (1.Kitap)",
+ "sayfa": "0-185",
+ "pdf_sayfa": 186,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 381.1,
+  "gemma": 1110.9,
+  "merge": 2.8,
+  "total": 1494.9
+ },
+ "sayfa_basi_sn": 8.0,
+ "birlestirme": {
+  "formul": 76,
+  "SEMBOL": 64,
+  "DOGRULANAMADI": 10,
+  "METINDE": 2,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 48
+ },
+ "gemma_formul": {
+  "total": 76,
+  "katex_ok": 76,
+  "bad_examples": []
+ },
+ "inceleme_bekleyen": 10
+}
