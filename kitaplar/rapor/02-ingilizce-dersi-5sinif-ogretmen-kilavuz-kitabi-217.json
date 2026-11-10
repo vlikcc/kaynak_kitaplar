@@ -1,0 +1,83 @@
+{
+ "kitap_id": 217,
+ "baslik": "İngilizce Dersi 5.Sınıf Öğretmen Kılavuz Kitabı",
+ "sayfa": "0-191",
+ "pdf_sayfa": 192,
+ "model": "gemma4:26b-a4b",
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "sure_sn": {
+  "download": 0.0,
+  "marker": 545.0,
+  "gemma": 1259.5,
+  "merge": 2.3,
+  "total": 1806.9
+ },
+ "sayfa_basi_sn": 9.4,
+ "birlestirme": {
+  "formul": 317,
+  "SEMBOL": 252,
+  "DOGRULANAMADI": 35,
+  "METINDE": 30,
+  "eksik_olabilir": 0,
+  "paragraf_isareti": 103
+ },
+ "gemma_formul": {
+  "total": 317,
+  "katex_ok": 304,
+  "bad_examples": [
+   [
+    "/\\text{\\textl}}/",
+    "KaTeX parse error: Undefined control sequence: \\textl at position 8: /\\text{\\̲t̲e̲x̲t̲l̲}}/"
+   ],
+   [
+    "/\\text{\\textm}}/",
+    "KaTeX parse error: Undefined control sequence: \\textm at position 8: /\\text{\\̲t̲e̲x̲t̲m̲}}/"
+   ],
+   [
+    "/\\text{\\textn}}/",
+    "KaTeX parse error: Undefined control sequence: \\textn at position 8: /\\text{\\̲t̲e̲x̲t̲n̲}}/"
+   ],
+   [
+    "/\\text{\\texto}/",
+    "KaTeX parse error: Undefined control sequence: \\texto at position 8: /\\text{\\̲t̲e̲x̲t̲o̲}/"
+   ],
+   [
+    "/ \\text{\\texto}/",
+    "KaTeX parse error: Undefined control sequence: \\texto at position 9: / \\text{\\̲t̲e̲x̲t̲o̲}/"
+   ],
+   [
+    "/\\text{\\textl}/, /l/",
+    "KaTeX parse error: Undefined control sequence: \\textl at position 8: /\\text{\\̲t̲e̲x̲t̲l̲}/, /l/"
+   ],
+   [
+    "/\\text{\\textm}/, /m/",
+    "KaTeX parse error: Undefined control sequence: \\textm at position 8: /\\text{\\̲t̲e̲x̲t̲m̲}/, /m/"
+   ],
+   [
+    "/\\text{\\textn}/, /n/",
+    "KaTeX parse error: Undefined control sequence: \\textn at position 8: /\\text{\\̲t̲e̲x̲t̲n̲}/, /n/"
+   ],
+   [
+    "/\\text{\\texto}/, /\\text{ɒ}/, /\\text{\\texto}/",
+    "KaTeX parse error: Undefined control sequence: \\texto at position 8: /\\text{\\̲t̲e̲x̲t̲o̲}/, /\\text{ɒ}/,…"
+   ],
+   [
+    "/\\text{\\textl}/, /l/",
+    "KaTeX parse error: Undefined control sequence: \\textl at position 8: /\\text{\\̲t̲e̲x̲t̲l̲}/, /l/"
+   ],
+   [
+    "/\\text{\\textm}/, /m/",
+    "KaTeX parse error: Undefined control sequence: \\textm at position 8: /\\text{\\̲t̲e̲x̲t̲m̲}/, /m/"
+   ],
+   [
+    "/\\text{\\textn}/, /n/",
+    "KaTeX parse error: Undefined control sequence: \\textn at position 8: /\\text{\\̲t̲e̲x̲t̲n̲}/, /n/"
+   ],
+   [
+    "/\\text{\\texto}/, /\\text{ɒ}/, /\\text{\\texto}/",
+    "KaTeX parse error: Undefined control sequence: \\texto at position 8: /\\text{\\̲t̲e̲x̲t̲o̲}/, /\\text{ɒ}/,…"
+   ]
+  ]
+ },
+ "inceleme_bekleyen": 35
+}
