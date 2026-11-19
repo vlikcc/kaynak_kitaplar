@@ -141,3 +141,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `429` Temel Matematik 11.Sınıf Ders Kitabı · 2026-11-19 23:06 · /content/venv_marker/bin/marker_single başarısız (1):
 - `430` Türk Dili Ve Edebiyatı 11.Sınıf Ders Kitabı · 2026-11-19 23:07 · /content/venv_marker/bin/marker_single başarısız (1):
 - `513` Arapça 12.Sınıf Ders Kitabı · 2026-11-19 23:08 · /content/venv_marker/bin/marker_single başarısız (1):
+- `520` Din Kültürü Ve Ahlak Bilgisi 12.Sınıf Ders Kitabı · 2026-11-19 23:08 · /content/venv_marker/bin/marker_single başarısız (1):
