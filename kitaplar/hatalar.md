@@ -8,3 +8,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `215` Çoklu Yabancı Dil Eğitim Modeli İngilizce Dersi 5.Sınıf Öğretmen Kılavuz Kitabı (1.Kitap) · 2026-11-19 20:45 · /content/venv_marker/bin/marker_single başarısız (1):
 - `216` Çoklu Yabancı Dil Eğitim Modeli İngilizce Dersi 5.Sınıf Öğretmen Kılavuz Kitabı (2.Kitap) · 2026-11-19 20:45 · /content/venv_marker/bin/marker_single başarısız (1):
 - `507` Arapça 6.Sınıf Ders Kitabı · 2026-11-19 20:47 · /content/venv_marker/bin/marker_single başarısız (1):
+- `433` Bilişim Teknolojileri Ve Yazılım Dersi 6.Sınıf Öğretmen Kılavuz Kitabı · 2026-11-19 20:47 · /content/venv_marker/bin/marker_single başarısız (1):
