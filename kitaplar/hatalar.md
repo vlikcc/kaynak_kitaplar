@@ -37,3 +37,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `273` Fen Bilimleri 7.Sınıf Ders Kitabı (2.Kitap) · 2026-11-19 20:59 · /content/venv_marker/bin/marker_single başarısız (1):
 - `523` Kur'an-ı Kerim 7.Sınıf Ders Kitabı · 2026-11-19 21:02 · /content/venv_marker/bin/marker_single başarısız (1):
 - `280` Matematik 7.Sınıf Ders Kitabı (1.Kitap) · 2026-11-19 21:02 · /content/venv_marker/bin/marker_single başarısız (1):
+- `281` Matematik 7.Sınıf Ders Kitabı (2.Kitap) · 2026-11-19 21:02 · /content/venv_marker/bin/marker_single başarısız (1):
