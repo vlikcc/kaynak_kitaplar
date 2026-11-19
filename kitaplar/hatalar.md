@@ -121,3 +121,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `413` İngilizce Dersi 10.Sınıf Öğretmen Kılavuz Kitabı · 2026-11-19 22:26 · /content/venv_marker/bin/marker_single başarısız (1):
 - `75` Kimya 10.Sınıf Ders Kitabı · 2026-11-19 22:37 · /content/venv_marker/bin/marker_single başarısız (1):
 - `526` Kur'an-ı Kerim 10.Sınıf Ders Kitabı · 2026-11-19 22:37 · /content/venv_marker/bin/marker_single başarısız (1):
+- `76` Matematik 10.Sınıf Ders Kitabı · 2026-11-19 22:40 · /content/venv_marker/bin/marker_single başarısız (1):
