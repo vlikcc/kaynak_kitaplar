@@ -143,3 +143,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `513` Arapça 12.Sınıf Ders Kitabı · 2026-11-19 23:08 · /content/venv_marker/bin/marker_single başarısız (1):
 - `520` Din Kültürü Ve Ahlak Bilgisi 12.Sınıf Ders Kitabı · 2026-11-19 23:08 · /content/venv_marker/bin/marker_single başarısız (1):
 - `528` Kur'an-ı Kerim 12.Sınıf Ders Kitabı · 2026-11-19 23:10 · /content/venv_marker/bin/marker_single başarısız (1):
+- `530` Kur'an-ı Kerim'in Anlam Dünyası 12.Sınıf Ders Kitabı · 2026-11-19 23:11 · /content/venv_marker/bin/marker_single başarısız (1):
