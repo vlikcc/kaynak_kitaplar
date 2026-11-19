@@ -126,3 +126,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `540` Peygamberimizin Hayatı 10.Sınıf Ders Kitabı · 2026-11-19 22:41 · /content/venv_marker/bin/marker_single başarısız (1):
 - `77` Tarih 10.Sınıf Ders Kitabı · 2026-11-19 22:44 · /content/venv_marker/bin/marker_single başarısız (1):
 - `78` Türk Dili Ve Edebiyatı 10.Sınıf Ders Kitabı · 2026-11-19 22:44 · /content/venv_marker/bin/marker_single başarısız (1):
+- `512` Arapça 11.Sınıf Ders Kitabı · 2026-11-19 22:46 · /content/venv_marker/bin/marker_single başarısız (1):
