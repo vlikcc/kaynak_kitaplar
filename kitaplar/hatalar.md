@@ -179,3 +179,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `488` Kelam Ders Kitabı · 2026-11-19 23:52 · /content/venv_marker/bin/marker_single başarısız (1):
 - `494` Mesleki Arapça 12.Sınıf Ders Kitabı · 2026-11-19 23:54 · /content/venv_marker/bin/marker_single başarısız (1):
 - `473` Din Eğitimi Ders Kitabı · 2026-11-19 23:55 · /content/venv_marker/bin/marker_single başarısız (1):
+- `474` Dinî Musiki I Ders Kitabı · 2026-11-19 23:55 · /content/venv_marker/bin/marker_single başarısız (1):
