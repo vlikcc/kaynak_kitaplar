@@ -90,3 +90,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `510` Arapça 9.Sınıf Ders Kitabı · 2026-11-19 21:33 · /content/venv_marker/bin/marker_single başarısız (1):
 - `398` Beden Eğitimi Ve Spor Dersi 9.Sınıf Öğretmen Kılavuz Kitabı · 2026-11-19 21:33 · /content/venv_marker/bin/marker_single başarısız (1):
 - `36` Biyoloji Dersi 9.Sınıf Ders Kitabı · 2026-11-19 21:38 · /content/venv_marker/bin/marker_single başarısız (1):
+- `37` Coğrafya Dersi 9.Sınıf Ders Kitabı · 2026-11-19 21:44 · /content/venv_marker/bin/marker_single başarısız (1):
