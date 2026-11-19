@@ -157,3 +157,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `424` Sosyal Bilim Çalışmaları Dersi-ı · 2026-11-19 23:26 · /content/venv_marker/bin/marker_single başarısız (1):
 - `427` Sosyoloji 1 Ders Kitabı · 2026-11-19 23:28 · /content/venv_marker/bin/marker_single başarısız (1):
 - `531` Temel Dinî Bilgiler Ders Kitabı (İslam 1) · 2026-11-19 23:28 · /content/venv_marker/bin/marker_single başarısız (1):
+- `532` Temel Dinî Bilgiler Ders Kitabı (İslam 2) · 2026-11-19 23:28 · /content/venv_marker/bin/marker_single başarısız (1):
