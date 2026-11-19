@@ -64,3 +64,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `268` Düşünme Eğitimi Ders Kitabı-1 · 2026-11-19 21:12 · /content/venv_marker/bin/marker_single başarısız (1):
 - `274` Görgü Kuralları Ve Nezaket Dersi-1 · 2026-11-19 21:12 · /content/venv_marker/bin/marker_single başarısız (1):
 - `438` Halk Oyunları Dersi Öğretmen Kılavuz Kitabı · 2026-11-19 21:13 · /content/venv_marker/bin/marker_single başarısız (1):
+- `277` Hukuk Ve Adalet Ders Kitabı · 2026-11-19 21:13 · /content/venv_marker/bin/marker_single başarısız (1):
