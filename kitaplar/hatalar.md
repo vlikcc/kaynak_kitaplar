@@ -88,3 +88,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `64` Workbook Uptone Prep Year Volume 1 · 2026-11-19 21:29 · /content/venv_marker/bin/marker_single başarısız (1):
 - `67` Workbook Uptone Prep Year Volume 2 · 2026-11-19 21:29 · /content/venv_marker/bin/marker_single başarısız (1):
 - `510` Arapça 9.Sınıf Ders Kitabı · 2026-11-19 21:33 · /content/venv_marker/bin/marker_single başarısız (1):
+- `398` Beden Eğitimi Ve Spor Dersi 9.Sınıf Öğretmen Kılavuz Kitabı · 2026-11-19 21:33 · /content/venv_marker/bin/marker_single başarısız (1):
