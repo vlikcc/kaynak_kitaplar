@@ -109,3 +109,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `43` Tarih 9.Sınıf Ders Kitabı · 2026-11-19 22:12 · /content/venv_marker/bin/marker_single başarısız (1):
 - `45` Türk Dili Ve Edebiyatı 9.Sınıf Ders Kitabı · 2026-11-19 22:12 · /content/venv_marker/bin/marker_single başarısız (1):
 - `511` Arapça 10.Sınıf Ders Kitabı · 2026-11-19 22:15 · /content/venv_marker/bin/marker_single başarısız (1):
+- `397` Beden Eğitimi Ve Spor Dersi 10.Sınıf Öğretmen Kılavuz Kitabı · 2026-11-19 22:15 · /content/venv_marker/bin/marker_single başarısız (1):
