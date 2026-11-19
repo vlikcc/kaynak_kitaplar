@@ -24,3 +24,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `56` Sosyal Bilgileri 6.Sınıf Ders Kitabı (1.Kitap) · 2026-11-19 20:54 · /content/venv_marker/bin/marker_single başarısız (1):
 - `57` Sosyal Bilgileri 6.Sınıf Ders Kitabı (2.Kitap) · 2026-11-19 20:54 · /content/venv_marker/bin/marker_single başarısız (1):
 - `60` Türkçe 6.Sınıf Ders Kitabı (1.Kitap) · 2026-11-19 20:54 · /content/venv_marker/bin/marker_single başarısız (1):
+- `61` Türkçe 6.Sınıf Ders Kitabı (2.Kitap) · 2026-11-19 20:55 · /content/venv_marker/bin/marker_single başarısız (1):
