@@ -92,3 +92,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `36` Biyoloji Dersi 9.Sınıf Ders Kitabı · 2026-11-19 21:38 · /content/venv_marker/bin/marker_single başarısız (1):
 - `37` Coğrafya Dersi 9.Sınıf Ders Kitabı · 2026-11-19 21:44 · /content/venv_marker/bin/marker_single başarısız (1):
 - `518` Din Kültürü Ve Ahlak Bilgisi 9.Sınıf Ders Kitabı · 2026-11-19 21:44 · /content/venv_marker/bin/marker_single başarısız (1):
+- `38` Fizik Dersi 9.Sınıf Ders Kitabı · 2026-11-19 21:47 · /content/venv_marker/bin/marker_single başarısız (1):
