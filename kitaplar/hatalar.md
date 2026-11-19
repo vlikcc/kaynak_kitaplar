@@ -150,3 +150,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `411` İklim, Çevre Ve Yenilikçi Çözümler Dersi Kitabı · 2026-11-19 23:19 · /content/venv_marker/bin/marker_single başarısız (1):
 - `415` İslam Bilim Tarihi Ders Kitabı · 2026-11-19 23:19 · /content/venv_marker/bin/marker_single başarısız (1):
 - `417` Mantık Ders Kitabı · 2026-11-19 23:20 · /content/venv_marker/bin/marker_single başarısız (1):
+- `422` Psikoloji Ders Kitabı · 2026-11-19 23:20 · /content/venv_marker/bin/marker_single başarısız (1):
