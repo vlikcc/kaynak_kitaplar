@@ -53,3 +53,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `517` Din Kültürü Ve Ahlak Bilgisi 8.Sınıf Ders Kitabı · 2026-11-19 21:09 · /content/venv_marker/bin/marker_single başarısız (1):
 - `524` Kur'an-ı Kerim 8.Sınıf Ders Kitabı · 2026-11-19 21:11 · /content/venv_marker/bin/marker_single başarısız (1):
 - `538` Peygamberimizin Hayatı 8.Sınıf Ders Kitabı · 2026-11-19 21:11 · /content/venv_marker/bin/marker_single başarısız (1):
+- `265` Çoklu Yabancı Dil Eğitim Modeli Almanca 8.Sınıf Ders Kitabı · 2026-11-19 21:11 · /content/venv_marker/bin/marker_single başarısız (1):
