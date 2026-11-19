@@ -181,3 +181,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `473` Din Eğitimi Ders Kitabı · 2026-11-19 23:55 · /content/venv_marker/bin/marker_single başarısız (1):
 - `474` Dinî Musiki I Ders Kitabı · 2026-11-19 23:55 · /content/venv_marker/bin/marker_single başarısız (1):
 - `476` Ebru I Ders Kitabı · 2026-11-19 23:57 · /content/venv_marker/bin/marker_single başarısız (1):
+- `478` Fıkıh Okumaları Ders Kitabı · 2026-11-19 23:57 · /content/venv_marker/bin/marker_single başarısız (1):
