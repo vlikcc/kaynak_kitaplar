@@ -86,3 +86,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `66` Teacher's Book Uptone Prep Year Volume 2 · 2026-11-19 21:28 · /content/venv_marker/bin/marker_single başarısız (1):
 - `44` Türk Dili Ve Edebiyatı Hazırlık Sınıfı Ders Kitabı · 2026-11-19 21:28 · /content/venv_marker/bin/marker_single başarısız (1):
 - `64` Workbook Uptone Prep Year Volume 1 · 2026-11-19 21:29 · /content/venv_marker/bin/marker_single başarısız (1):
+- `67` Workbook Uptone Prep Year Volume 2 · 2026-11-19 21:29 · /content/venv_marker/bin/marker_single başarısız (1):
