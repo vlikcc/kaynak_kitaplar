@@ -54,3 +54,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `524` Kur'an-ı Kerim 8.Sınıf Ders Kitabı · 2026-11-19 21:11 · /content/venv_marker/bin/marker_single başarısız (1):
 - `538` Peygamberimizin Hayatı 8.Sınıf Ders Kitabı · 2026-11-19 21:11 · /content/venv_marker/bin/marker_single başarısız (1):
 - `265` Çoklu Yabancı Dil Eğitim Modeli Almanca 8.Sınıf Ders Kitabı · 2026-11-19 21:11 · /content/venv_marker/bin/marker_single başarısız (1):
+- `266` Çoklu Yabancı Dil Eğitim Modeli Almanca 8.Sınıf Çalışma Kitabı · 2026-11-19 21:11 · /content/venv_marker/bin/marker_single başarısız (1):
