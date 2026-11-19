@@ -112,3 +112,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `397` Beden Eğitimi Ve Spor Dersi 10.Sınıf Öğretmen Kılavuz Kitabı · 2026-11-19 22:15 · /content/venv_marker/bin/marker_single başarısız (1):
 - `71` Biyoloji Dersi 10.Sınıf Ders Kitabı · 2026-11-19 22:17 · /content/venv_marker/bin/marker_single başarısız (1):
 - `72` Coğrafya Dersi 10.Sınıf Ders Kitabı · 2026-11-19 22:17 · /content/venv_marker/bin/marker_single başarısız (1):
+- `35` Din Kültürü Ve Ahlak Bilgisi 10.Sınıf Ders Kitabı · 2026-11-19 22:19 · /content/venv_marker/bin/marker_single başarısız (1):
