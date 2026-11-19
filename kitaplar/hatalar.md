@@ -163,3 +163,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `471` Arapça 9.Sınıf Ders Kitabı · 2026-11-19 23:33 · /content/venv_marker/bin/marker_single başarısız (1):
 - `489` Kur'an-ı Kerim 9.Sınıf Ders Kitabı · 2026-11-19 23:33 · /content/venv_marker/bin/marker_single başarısız (1):
 - `499` Temel Dinî Bilgiler 9.Sınıf Ders Kitabı · 2026-11-19 23:34 · /content/venv_marker/bin/marker_single başarısız (1):
+- `472` Arapça 10.Sınıf Ders Kitabı · 2026-11-19 23:36 · /content/venv_marker/bin/marker_single başarısız (1):
