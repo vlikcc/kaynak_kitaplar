@@ -171,3 +171,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `470` Akaid 11.Sınıf Ders Kitabı · 2026-11-19 23:41 · /content/venv_marker/bin/marker_single başarısız (1):
 - `496` Arapça Metin Mukaleme 11.Sınıf Ders Kitabı · 2026-11-19 23:42 · /content/venv_marker/bin/marker_single başarısız (1):
 - `481` Hitabet Ve Mesleki Uygulama 11.Sınıf Ders Kitabı · 2026-11-19 23:42 · /content/venv_marker/bin/marker_single başarısız (1):
+- `484` İslam Felsefesi 11.Sınıf Ders Kitabı · 2026-11-19 23:43 · /content/venv_marker/bin/marker_single başarısız (1):
