@@ -20,3 +20,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `54` Matematik 6.Sınıf Ders Kitabı (1.Kitap) · 2026-11-19 20:53 · /content/venv_marker/bin/marker_single başarısız (1):
 - `55` Matematik 6.Sınıf Ders Kitabı (2.Kitap) · 2026-11-19 20:53 · /content/venv_marker/bin/marker_single başarısız (1):
 - `284` Müzik 6.Sınıf Ders Kitabı · 2026-11-19 20:53 · /content/venv_marker/bin/marker_single başarısız (1):
+- `536` Peygamberimizin Hayatı 6.Sınıf Ders Kitabı · 2026-11-19 20:54 · /content/venv_marker/bin/marker_single başarısız (1):
