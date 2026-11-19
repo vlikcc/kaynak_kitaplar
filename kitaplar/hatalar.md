@@ -17,3 +17,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `297` İngilizce Dersi 6.Sınıf Çalışma Kitabı · 2026-11-19 20:52 · /content/venv_marker/bin/marker_single başarısız (1):
 - `299` İngilizce Dersi 6.Sınıf Öğretmen Kılavuz Kitabı · 2026-11-19 20:52 · /content/venv_marker/bin/marker_single başarısız (1):
 - `522` Kur'an-ı Kerim 6.Sınıf Ders Kitabı · 2026-11-19 20:53 · /content/venv_marker/bin/marker_single başarısız (1):
+- `54` Matematik 6.Sınıf Ders Kitabı (1.Kitap) · 2026-11-19 20:53 · /content/venv_marker/bin/marker_single başarısız (1):
