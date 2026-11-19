@@ -132,3 +132,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `519` Din Kültürü Ve Ahlak Bilgisi 11.Sınıf Ders Kitabı · 2026-11-19 22:50 · /content/venv_marker/bin/marker_single başarısız (1):
 - `403` Felsefe Dersi 11.Sınıf Ders Kitabı · 2026-11-19 22:52 · /content/venv_marker/bin/marker_single başarısız (1):
 - `404` Fizik Dersi 11.Sınıf Ders Kitabı · 2026-11-19 22:57 · /content/venv_marker/bin/marker_single başarısız (1):
+- `416` Kimya 11.Sınıf Ders Kitabı · 2026-11-19 22:57 · /content/venv_marker/bin/marker_single başarısız (1):
