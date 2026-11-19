@@ -95,3 +95,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `38` Fizik Dersi 9.Sınıf Ders Kitabı · 2026-11-19 21:47 · /content/venv_marker/bin/marker_single başarısız (1):
 - `405` Görsel Sanatlar Dersi 9.Sınıf Öğretmen Kılavuz Kitabı · 2026-11-19 21:47 · /content/venv_marker/bin/marker_single başarısız (1):
 - `68` İngilizce Dersi 9.Sınıf Ders Kitabı · 2026-11-19 21:55 · /content/venv_marker/bin/marker_single başarısız (1):
+- `408` İngilizce Dersi 9.Sınıf Ders Kitabı · 2026-11-19 21:55 · /content/venv_marker/bin/marker_single başarısız (1):
