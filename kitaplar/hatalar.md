@@ -46,3 +46,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `264` Çoklu Yabancı Dil Eğitim Modeli Almanca 7.Sınıf Ders Kitabı · 2026-11-19 21:03 · /content/venv_marker/bin/marker_single başarısız (1):
 - `262` Çoklu Yabancı Dil Eğitim Modeli Almanca 7.Sınıf Çalışma Kitabı · 2026-11-19 21:04 · /content/venv_marker/bin/marker_single başarısız (1):
 - `263` Çoklu Yabancı Dil Eğitim Modeli Almanca 7.Sınıf Öğretmen Kılavuz Kitabı · 2026-11-19 21:04 · /content/venv_marker/bin/marker_single başarısız (1):
+- `135` Çoklu Yabancı Dil Eğitim Modeli İngilizce 7.Sınıf Ders Kitabı · 2026-11-19 21:04 · /content/venv_marker/bin/marker_single başarısız (1):
