@@ -177,3 +177,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `475` Dinler Tarihi 12.Sınıf Ders Kitabı · 2026-11-19 23:51 · /content/venv_marker/bin/marker_single başarısız (1):
 - `485` İslam Kültür Ve Medeniyeti 12.Sınıf Ders Kitabı · 2026-11-19 23:52 · /content/venv_marker/bin/marker_single başarısız (1):
 - `488` Kelam Ders Kitabı · 2026-11-19 23:52 · /content/venv_marker/bin/marker_single başarısız (1):
+- `494` Mesleki Arapça 12.Sınıf Ders Kitabı · 2026-11-19 23:54 · /content/venv_marker/bin/marker_single başarısız (1):
