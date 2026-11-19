@@ -74,3 +74,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `533` Temel Dinî Bilgiler Ders Kitabı (İslam 1) · 2026-11-19 21:16 · /content/venv_marker/bin/marker_single başarısız (1):
 - `534` Temel Dinî Bilgiler Ders Kitabı (İslam 2) · 2026-11-19 21:18 · /content/venv_marker/bin/marker_single başarısız (1):
 - `305` TüRk Sosyal Hayatında Aile Ders Kitabı · 2026-11-19 21:18 · /content/venv_marker/bin/marker_single başarısız (1):
+- `304` Yazarlık Ve Yazma Becerileri Ders Kitabı-1 · 2026-11-19 21:18 · /content/venv_marker/bin/marker_single başarısız (1):
