@@ -167,3 +167,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `477` Fıkıh 10.Sınıf Ders Kitabı · 2026-11-19 23:36 · /content/venv_marker/bin/marker_single başarısız (1):
 - `480` Hadis 10.Sınıf Ders Kitabı · 2026-11-19 23:38 · /content/venv_marker/bin/marker_single başarısız (1):
 - `491` Kur'an-ı Kerim 10.Sınıf Ders Kitabı · 2026-11-19 23:40 · /content/venv_marker/bin/marker_single başarısız (1):
+- `497` Siyer 10.Sınıf Ders Kitabı · 2026-11-19 23:40 · /content/venv_marker/bin/marker_single başarısız (1):
