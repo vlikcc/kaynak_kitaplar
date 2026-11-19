@@ -40,3 +40,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `281` Matematik 7.Sınıf Ders Kitabı (2.Kitap) · 2026-11-19 21:02 · /content/venv_marker/bin/marker_single başarısız (1):
 - `537` Peygamberimizin Hayatı 7.Sınıf Ders Kitabı · 2026-11-19 21:03 · /content/venv_marker/bin/marker_single başarısız (1):
 - `289` Sosyal Bilgileri 7.Sınıf Ders Kitabı (1.Kitap) · 2026-11-19 21:03 · /content/venv_marker/bin/marker_single başarısız (1):
+- `290` Sosyal Bilgileri 7.Sınıf Ders Kitabı (2.Kitap) · 2026-11-19 21:03 · /content/venv_marker/bin/marker_single başarısız (1):
