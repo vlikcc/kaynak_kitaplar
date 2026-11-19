@@ -148,3 +148,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `396` Astronomi Ve Uzay Bilimleri Dersi Kitabı · 2026-11-19 23:14 · /content/venv_marker/bin/marker_single başarısız (1):
 - `402` Demokrasi Ve İnsan Hakları Dersi Kitabı · 2026-11-19 23:15 · /content/venv_marker/bin/marker_single başarısız (1):
 - `411` İklim, Çevre Ve Yenilikçi Çözümler Dersi Kitabı · 2026-11-19 23:19 · /content/venv_marker/bin/marker_single başarısız (1):
+- `415` İslam Bilim Tarihi Ders Kitabı · 2026-11-19 23:19 · /content/venv_marker/bin/marker_single başarısız (1):
