@@ -133,3 +133,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `403` Felsefe Dersi 11.Sınıf Ders Kitabı · 2026-11-19 22:52 · /content/venv_marker/bin/marker_single başarısız (1):
 - `404` Fizik Dersi 11.Sınıf Ders Kitabı · 2026-11-19 22:57 · /content/venv_marker/bin/marker_single başarısız (1):
 - `416` Kimya 11.Sınıf Ders Kitabı · 2026-11-19 22:57 · /content/venv_marker/bin/marker_single başarısız (1):
+- `527` Kur'an-ı Kerim 11.Sınıf Ders Kitabı · 2026-11-19 22:59 · /content/venv_marker/bin/marker_single başarısız (1):
