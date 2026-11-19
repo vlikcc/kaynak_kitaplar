@@ -59,3 +59,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `302` Çoklu Yabancı Dil Eğitim Modeli İngilizce 8.Sınıf Ders Kitabı · 2026-11-19 21:11 · /content/venv_marker/bin/marker_single başarısız (1):
 - `303` Çoklu Yabancı Dil Eğitim Modeli İngilizce 8.Sınıf Çalışma Kitabı · 2026-11-19 21:11 · /content/venv_marker/bin/marker_single başarısız (1):
 - `301` Çoklu Yabancı Dil Eğitim Modeli İngilizce 8.Sınıf Öğretmen Kılavuz Kitabı · 2026-11-19 21:12 · /content/venv_marker/bin/marker_single başarısız (1):
+- `261` Afet Bilinci Ders Kitabı-1 · 2026-11-19 21:12 · /content/venv_marker/bin/marker_single başarısız (1):
