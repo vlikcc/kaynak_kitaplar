@@ -77,3 +77,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `304` Yazarlık Ve Yazma Becerileri Ders Kitabı-1 · 2026-11-19 21:18 · /content/venv_marker/bin/marker_single başarısız (1):
 - `269` Çevre Eğitimi Ve İklim Değişikliği Ders Kitabı · 2026-11-19 21:18 · /content/venv_marker/bin/marker_single başarısız (1):
 - `399` Beden Eğitimi Ve Spor Dersi Hazırlık Sınıfı Öğretmen Kılavuz Kitabı · 2026-11-19 21:19 · /content/venv_marker/bin/marker_single başarısız (1):
+- `407` Görsel Sanatlar Dersi Hazırlık Sınıfı Öğretmen Kılavuz Kitabı · 2026-11-19 21:20 · /content/venv_marker/bin/marker_single başarısız (1):
