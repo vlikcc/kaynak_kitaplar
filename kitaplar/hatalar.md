@@ -83,3 +83,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `62` Student's Book Uptone Prep Year Volume 1 · 2026-11-19 21:23 · /content/venv_marker/bin/marker_single başarısız (1):
 - `65` Student's Book Uptone Prep Year Volume 2 · 2026-11-19 21:26 · /content/venv_marker/bin/marker_single başarısız (1):
 - `63` Teacher's Book Uptone Prep Year Volume 1 · 2026-11-19 21:26 · /content/venv_marker/bin/marker_single başarısız (1):
+- `66` Teacher's Book Uptone Prep Year Volume 2 · 2026-11-19 21:28 · /content/venv_marker/bin/marker_single başarısız (1):
