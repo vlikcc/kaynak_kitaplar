@@ -66,3 +66,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `438` Halk Oyunları Dersi Öğretmen Kılavuz Kitabı · 2026-11-19 21:13 · /content/venv_marker/bin/marker_single başarısız (1):
 - `277` Hukuk Ve Adalet Ders Kitabı · 2026-11-19 21:13 · /content/venv_marker/bin/marker_single başarısız (1):
 - `295` KüLtüR Ve Medeniyetimize YöN Verenler Ders Kitabı-1 · 2026-11-19 21:13 · /content/venv_marker/bin/marker_single başarısız (1):
+- `296` Masal Ve Destanlarımız Ders Kitabı-1 · 2026-11-19 21:15 · /content/venv_marker/bin/marker_single başarısız (1):
