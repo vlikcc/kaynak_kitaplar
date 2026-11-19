@@ -98,3 +98,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `408` İngilizce Dersi 9.Sınıf Ders Kitabı · 2026-11-19 21:55 · /content/venv_marker/bin/marker_single başarısız (1):
 - `70` İngilizce Dersi 9.Sınıf Çalışma Kitabı · 2026-11-19 21:56 · /content/venv_marker/bin/marker_single başarısız (1):
 - `409` İngilizce Dersi 9.Sınıf Çalışma Kitabı · 2026-11-19 21:56 · /content/venv_marker/bin/marker_single başarısız (1):
+- `410` İngilizce Dersi 9.Sınıf Öğretmen Kılavuz Kitabı · 2026-11-19 21:56 · /content/venv_marker/bin/marker_single başarısız (1):
