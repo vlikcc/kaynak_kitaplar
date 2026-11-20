@@ -188,3 +188,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `486` İslam Tarihi Ders Kitabı · 2026-11-20 00:00 · /content/venv_marker/bin/marker_single başarısız (1):
 - `487` İslam'da Çocuk Eğitimi Ders Kitabı · 2026-11-20 00:01 · /content/venv_marker/bin/marker_single başarısız (1):
 - `492` Kur'an'ın Ana Konuları-ı Ders Kitabı · 2026-11-20 00:02 · /content/venv_marker/bin/marker_single başarısız (1):
+- `495` Mesleki Uygulama Ders Kitabı · 2026-11-20 00:04 · /content/venv_marker/bin/marker_single başarısız (1):
