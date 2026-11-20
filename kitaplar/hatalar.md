@@ -185,3 +185,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `479` Hadis Metinleri Ders Kitabı · 2026-11-19 23:58 · /content/venv_marker/bin/marker_single başarısız (1):
 - `482` Hüsnühat I Ders Kitabı · 2026-11-20 00:00 · /content/venv_marker/bin/marker_single başarısız (1):
 - `483` İslam Ahlakı Ders Kitabı · 2026-11-20 00:00 · /content/venv_marker/bin/marker_single başarısız (1):
+- `486` İslam Tarihi Ders Kitabı · 2026-11-20 00:00 · /content/venv_marker/bin/marker_single başarısız (1):
