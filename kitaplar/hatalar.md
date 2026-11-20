@@ -190,3 +190,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `492` Kur'an'ın Ana Konuları-ı Ders Kitabı · 2026-11-20 00:02 · /content/venv_marker/bin/marker_single başarısız (1):
 - `495` Mesleki Uygulama Ders Kitabı · 2026-11-20 00:04 · /content/venv_marker/bin/marker_single başarısız (1):
 - `498` Tasavvuf Kültürü Ders Kitabı · 2026-11-20 00:05 · /content/venv_marker/bin/marker_single başarısız (1):
+- `501` Tefsir Okumaları Ders Kitabı · 2026-11-20 00:07 · /content/venv_marker/bin/marker_single başarısız (1):
