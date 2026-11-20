@@ -202,3 +202,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `188` Oyun Ve Taktiksel Farkındalık 6.Sınıf Öğretmen Kılavuz Kitabı · 2026-11-20 00:08 · /content/venv_marker/bin/marker_single başarısız (1):
 - `190` Ritim Eğitimi Ve Halk Oyunları 6.Sınıf Öğretmen Kılavuz Kitabı · 2026-11-20 00:08 · /content/venv_marker/bin/marker_single başarısız (1):
 - `184` Çocuklarda Atletik Performans Uygulamaları 6.Sınıf Öğretmen Kılavuz Kitabı · 2026-11-20 00:08 · /content/venv_marker/bin/marker_single başarısız (1):
+- `321` Beden Eğitimi Ve Sporun Temelleri 7.Sınıf Ders Kitabı · 2026-11-20 00:08 · /content/venv_marker/bin/marker_single başarısız (1):
