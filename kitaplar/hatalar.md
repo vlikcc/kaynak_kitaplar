@@ -208,3 +208,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `325` Ritim Eğitimi Ve Halk Oyunları 7.Sınıf Öğretmen Kılavuz Kitabı · 2026-11-20 00:09 · /content/venv_marker/bin/marker_single başarısız (1):
 - `322` Çocuklarda Atletik Performans Uygulamaları 7.Sınıf Öğretmen Kılavuz Kitabı · 2026-11-20 00:09 · /content/venv_marker/bin/marker_single başarısız (1):
 - `202` Beden Eğitimi Oyun Ve Müzik 1.Sınıf Ders Kitabı · 2026-11-20 00:10 · /content/venv_marker/bin/marker_single başarısız (1):
+- `191` Bireysel Ses Eğitimi 1.Sınıf Ders Kitabı · 2026-11-20 00:15 · /content/venv_marker/bin/marker_single başarısız (1):
