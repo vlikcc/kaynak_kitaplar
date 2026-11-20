@@ -194,3 +194,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `502` Tezhip I Ders Kitabı · 2026-11-20 00:07 · /content/venv_marker/bin/marker_single başarısız (1):
 - `181` Beden Eğitimi Ve Sporun Temelleri 5.Sınıf Ders Kitabı · 2026-11-20 00:07 · /content/venv_marker/bin/marker_single başarısız (1):
 - `185` Kapsamlı Spor Eğitimi 5.Sınıf Öğretmen Kılavuz Kitabı · 2026-11-20 00:07 · /content/venv_marker/bin/marker_single başarısız (1):
+- `187` Oyun Ve Taktiksel Farkındalık 5.Sınıf Öğretmen Kılavuz Kitabı · 2026-11-20 00:08 · /content/venv_marker/bin/marker_single başarısız (1):
