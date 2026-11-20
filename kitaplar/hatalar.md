@@ -200,3 +200,4 @@ Her satır bir başarısız deneme. Aynı kitap MAX_FAILS kez başarısız olurs
 - `182` Beden Eğitimi Ve Sporun Temelleri 6.Sınıf Ders Kitabı · 2026-11-20 00:08 · /content/venv_marker/bin/marker_single başarısız (1):
 - `186` Kapsamlı Spor Eğitimi 6.Sınıf Öğretmen Kılavuz Kitabı · 2026-11-20 00:08 · /content/venv_marker/bin/marker_single başarısız (1):
 - `188` Oyun Ve Taktiksel Farkındalık 6.Sınıf Öğretmen Kılavuz Kitabı · 2026-11-20 00:08 · /content/venv_marker/bin/marker_single başarısız (1):
+- `190` Ritim Eğitimi Ve Halk Oyunları 6.Sınıf Öğretmen Kılavuz Kitabı · 2026-11-20 00:08 · /content/venv_marker/bin/marker_single başarısız (1):
